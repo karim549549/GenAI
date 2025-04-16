@@ -1,0 +1,3988 @@
+[
+  {
+    "name": "Spaghetti Carbonara",
+    "description": "Classic Italian pasta dish with eggs, cheese, pancetta, and black pepper.",
+    "ingredients": [
+      "400g spaghetti",
+      "200g pancetta, diced",
+      "4 large eggs",
+      "100g pecorino cheese, grated",
+      "100g parmesan cheese, grated",
+      "Freshly ground black pepper",
+      "Salt"
+    ],
+    "instructions": [
+      "Cook spaghetti in boiling salted water until al dente.",
+      "Fry pancetta in a pan until crispy.",
+      "Whisk eggs and mix with grated cheeses.",
+      "Drain pasta, reserve some water, and mix with pancetta.",
+      "Remove from heat, add egg mixture, and stir quickly.",
+      "Add pasta water if needed, season with black pepper."
+    ],
+    "cuisine": "ITALIAN",
+    "mealType": "MAIN_COURSE",
+    "prepTime": 10,
+    "cookTime": 15,
+    "totalTime": 25,
+    "calories": 650,
+    "protein": 30,
+    "fat": 35,
+    "carbs": 55,
+    "servings": 4,
+    "tags": [
+      "HIGH_PROTEIN"
+    ],
+    "source": "OFFICIAL"
+  },
+  {
+    "name": "Vegetable Stir Fry",
+    "description": "Quick and healthy stir-fried vegetables with tofu in a savory sauce.",
+    "ingredients": [
+      "200g tofu, cubed",
+      "1 bell pepper, sliced",
+      "1 carrot, julienned",
+      "100g broccoli florets",
+      "2 tbsp soy sauce",
+      "1 tbsp sesame oil",
+      "1 clove garlic, minced",
+      "1 tsp ginger, grated"
+    ],
+    "instructions": [
+      "Heat sesame oil in a wok or pan.",
+      "Add garlic and ginger, stir for 30 seconds.",
+      "Add tofu and cook until golden.",
+      "Add vegetables and stir-fry for 5 minutes.",
+      "Pour soy sauce and toss well.",
+      "Serve hot."
+    ],
+    "cuisine": "CHINESE",
+    "mealType": "MAIN_COURSE",
+    "prepTime": 10,
+    "cookTime": 10,
+    "totalTime": 20,
+    "calories": 280,
+    "protein": 15,
+    "fat": 12,
+    "carbs": 25,
+    "servings": 2,
+    "tags": [
+      "VEGETARIAN",
+      "HIGH_PROTEIN"
+    ],
+    "source": "OFFICIAL"
+  },
+  {
+    "name": "Greek Salad",
+    "description": "Fresh and tangy salad with tomatoes, cucumbers, olives, and feta cheese.",
+    "ingredients": [
+      "2 large tomatoes, chopped",
+      "1 cucumber, sliced",
+      "1 red onion, thinly sliced",
+      "100g kalamata olives",
+      "200g feta cheese, cubed",
+      "2 tbsp olive oil",
+      "1 tsp dried oregano",
+      "Salt to taste"
+    ],
+    "instructions": [
+      "Combine tomatoes, cucumber, onion, and olives in a bowl.",
+      "Add feta cheese on top.",
+      "Drizzle with olive oil and sprinkle oregano.",
+      "Season with salt and toss gently."
+    ],
+    "cuisine": "GREEK",
+    "mealType": "SALAD",
+    "prepTime": 10,
+    "cookTime": 0,
+    "totalTime": 10,
+    "calories": 320,
+    "protein": 10,
+    "fat": 25,
+    "carbs": 12,
+    "servings": 2,
+    "tags": [
+      "VEGETARIAN",
+      "GLUTEN_FREE"
+    ],
+    "source": "OFFICIAL"
+  },
+  {
+    "name": "Chocolate Avocado Mousse",
+    "description": "Creamy vegan dessert made with avocado and dark chocolate.",
+    "ingredients": [
+      "2 ripe avocados",
+      "100g dark chocolate, melted",
+      "2 tbsp maple syrup",
+      "1 tsp vanilla extract",
+      "Pinch of salt"
+    ],
+    "instructions": [
+      "Blend avocados until smooth.",
+      "Add melted chocolate, maple syrup, vanilla, and salt.",
+      "Blend again until creamy.",
+      "Chill for at least 1 hour before serving."
+    ],
+    "cuisine": "AMERICAN",
+    "mealType": "DESSERT",
+    "prepTime": 10,
+    "cookTime": 5,
+    "totalTime": 75,
+    "calories": 250,
+    "protein": 3,
+    "fat": 18,
+    "carbs": 20,
+    "servings": 4,
+    "tags": [
+      "VEGAN",
+      "DAIRY_FREE",
+      "GLUTEN_FREE"
+    ],
+    "source": "OFFICIAL"
+  },
+  {
+    "name": "Chicken Tikka Masala",
+    "description": "Creamy Indian curry with marinated grilled chicken in spiced tomato sauce.",
+    "ingredients": [
+      "500g chicken breast, cubed",
+      "1 cup yogurt",
+      "2 tbsp tikka masala spice mix",
+      "1 onion, chopped",
+      "2 cloves garlic, minced",
+      "1 can (400g) tomato puree",
+      "1/2 cup heavy cream",
+      "Fresh cilantro for garnish"
+    ],
+    "instructions": [
+      "Marinate chicken in yogurt and spice mix for 1 hour.",
+      "Grill or bake chicken until cooked.",
+      "Sauté onion and garlic, add tomato puree, and simmer.",
+      "Add chicken and cream, cook for 10 minutes.",
+      "Garnish with cilantro and serve with rice."
+    ],
+    "cuisine": "INDIAN",
+    "mealType": "MAIN_COURSE",
+    "prepTime": 15,
+    "cookTime": 30,
+    "totalTime": 105,
+    "calories": 450,
+    "protein": 35,
+    "fat": 22,
+    "carbs": 20,
+    "servings": 4,
+    "tags": [
+      "HIGH_PROTEIN"
+    ],
+    "source": "OFFICIAL"
+  },
+  {
+    "name": "Margherita Pizza",
+    "description": "Classic Italian pizza with tomato sauce, mozzarella, and basil.",
+    "ingredients": [
+      "1 pizza dough",
+      "1/2 cup tomato sauce",
+      "200g fresh mozzarella",
+      "Fresh basil leaves",
+      "2 tbsp olive oil",
+      "Salt to taste"
+    ],
+    "instructions": [
+      "Preheat oven to 475°F (245°C).",
+      "Roll out dough and spread tomato sauce.",
+      "Add sliced mozzarella.",
+      "Bake for 10-12 minutes until crust is golden.",
+      "Top with fresh basil and drizzle with olive oil."
+    ],
+    "cuisine": "ITALIAN",
+    "mealType": "MAIN_COURSE",
+    "prepTime": 20,
+    "cookTime": 12,
+    "totalTime": 32,
+    "calories": 800,
+    "protein": 30,
+    "fat": 35,
+    "carbs": 90,
+    "servings": 2,
+    "tags": [
+      "VEGETARIAN"
+    ],
+    "source": "OFFICIAL"
+  },
+  {
+    "name": "Beef Tacos",
+    "description": "Traditional Mexican tacos with seasoned ground beef and fresh toppings.",
+    "ingredients": [
+      "500g ground beef",
+      "1 packet taco seasoning",
+      "8 corn tortillas",
+      "1 cup shredded lettuce",
+      "1 diced tomato",
+      "1/2 cup shredded cheddar",
+      "1/4 cup sour cream"
+    ],
+    "instructions": [
+      "Brown beef in a skillet, add seasoning.",
+      "Warm tortillas according to package.",
+      "Assemble tacos with beef and toppings."
+    ],
+    "cuisine": "MEXICAN",
+    "mealType": "DINNER",
+    "prepTime": 10,
+    "cookTime": 15,
+    "totalTime": 25,
+    "calories": 450,
+    "protein": 25,
+    "fat": 20,
+    "carbs": 40,
+    "servings": 4,
+    "tags": [
+      "HIGH_PROTEIN"
+    ],
+    "source": "OFFICIAL"
+  },
+  {
+    "name": "Chicken Curry",
+    "description": "Spicy Indian curry with tender chicken pieces in rich sauce.",
+    "ingredients": [
+      "500g chicken thighs",
+      "2 tbsp curry powder",
+      "1 can coconut milk",
+      "1 diced onion",
+      "2 cloves garlic",
+      "1 tbsp ginger",
+      "2 tbsp vegetable oil"
+    ],
+    "instructions": [
+      "Sauté onion, garlic and ginger in oil.",
+      "Add chicken and brown lightly.",
+      "Stir in curry powder and coconut milk.",
+      "Simmer for 20 minutes until chicken is cooked."
+    ],
+    "cuisine": "INDIAN",
+    "mealType": "DINNER",
+    "prepTime": 15,
+    "cookTime": 25,
+    "totalTime": 40,
+    "calories": 550,
+    "protein": 35,
+    "fat": 40,
+    "carbs": 15,
+    "servings": 4,
+    "tags": [
+      "HIGH_PROTEIN"
+    ],
+    "source": "OFFICIAL"
+  },
+  {
+    "name": "Vegetable Spring Rolls",
+    "description": "Crispy Chinese appetizers filled with fresh vegetables.",
+    "ingredients": [
+      "12 spring roll wrappers",
+      "2 cups shredded cabbage",
+      "1 grated carrot",
+      "50g bean sprouts",
+      "2 tbsp soy sauce",
+      "1 tsp sesame oil",
+      "Oil for frying"
+    ],
+    "instructions": [
+      "Mix vegetables with soy sauce and sesame oil.",
+      "Wrap in spring roll wrappers.",
+      "Fry in hot oil until golden brown."
+    ],
+    "cuisine": "CHINESE",
+    "mealType": "APPETIZER",
+    "prepTime": 20,
+    "cookTime": 10,
+    "totalTime": 30,
+    "calories": 120,
+    "protein": 3,
+    "fat": 5,
+    "carbs": 18,
+    "servings": 6,
+    "tags": [
+      "VEGETARIAN"
+    ],
+    "source": "OFFICIAL"
+  },
+  {
+    "name": "Miso Soup",
+    "description": "Traditional Japanese soup with tofu and seaweed.",
+    "ingredients": [
+      "4 cups dashi stock",
+      "3 tbsp miso paste",
+      "100g silken tofu",
+      "2 tbsp dried seaweed",
+      "2 green onions"
+    ],
+    "instructions": [
+      "Heat stock to simmer.",
+      "Dissolve miso paste in stock.",
+      "Add tofu and seaweed.",
+      "Simmer for 5 minutes.",
+      "Garnish with green onions."
+    ],
+    "cuisine": "JAPANESE",
+    "mealType": "SOUP",
+    "prepTime": 5,
+    "cookTime": 10,
+    "totalTime": 15,
+    "calories": 80,
+    "protein": 6,
+    "fat": 3,
+    "carbs": 8,
+    "servings": 4,
+    "tags": [
+      "VEGETARIAN",
+      "GLUTEN_FREE"
+    ],
+    "source": "OFFICIAL"
+  },
+  {
+    "name": "Greek Yogurt Parfait",
+    "description": "Healthy breakfast with yogurt, granola and fresh berries.",
+    "ingredients": [
+      "2 cups Greek yogurt",
+      "1 cup mixed berries",
+      "1/2 cup granola",
+      "1 tbsp honey"
+    ],
+    "instructions": [
+      "Layer yogurt, berries and granola in a glass.",
+      "Drizzle with honey."
+    ],
+    "cuisine": "GREEK",
+    "mealType": "BREAKFAST",
+    "prepTime": 5,
+    "cookTime": 0,
+    "totalTime": 5,
+    "calories": 250,
+    "protein": 15,
+    "fat": 5,
+    "carbs": 35,
+    "servings": 2,
+    "tags": [
+      "HIGH_PROTEIN",
+      "VEGETARIAN"
+    ],
+    "source": "OFFICIAL"
+  },
+  {
+    "name": "Ratatouille",
+    "description": "French vegetable stew with eggplant, zucchini and bell peppers.",
+    "ingredients": [
+      "1 eggplant",
+      "2 zucchinis",
+      "1 red bell pepper",
+      "2 tomatoes",
+      "2 tbsp olive oil",
+      "Herbs de Provence",
+      "Salt and pepper"
+    ],
+    "instructions": [
+      "Slice all vegetables thinly.",
+      "Layer in baking dish with oil and herbs.",
+      "Bake at 375°F (190°C) for 45 minutes."
+    ],
+    "cuisine": "FRENCH",
+    "mealType": "SIDE_DISH",
+    "prepTime": 20,
+    "cookTime": 45,
+    "totalTime": 65,
+    "calories": 180,
+    "protein": 4,
+    "fat": 10,
+    "carbs": 20,
+    "servings": 4,
+    "tags": [
+      "VEGAN",
+      "GLUTEN_FREE"
+    ],
+    "source": "OFFICIAL"
+  },
+  {
+    "name": "Hummus",
+    "description": "Creamy Middle Eastern chickpea dip.",
+    "ingredients": [
+      "1 can chickpeas",
+      "2 tbsp tahini",
+      "2 cloves garlic",
+      "3 tbsp lemon juice",
+      "2 tbsp olive oil",
+      "1 tsp cumin",
+      "Salt to taste"
+    ],
+    "instructions": [
+      "Blend all ingredients until smooth.",
+      "Adjust seasoning to taste.",
+      "Drizzle with olive oil to serve."
+    ],
+    "cuisine": "ARABIC",
+    "mealType": "SNACK",
+    "prepTime": 10,
+    "cookTime": 0,
+    "totalTime": 10,
+    "calories": 150,
+    "protein": 5,
+    "fat": 8,
+    "carbs": 15,
+    "servings": 6,
+    "tags": [
+      "VEGAN",
+      "GLUTEN_FREE"
+    ],
+    "source": "OFFICIAL"
+  },
+  {
+    "name": "Avocado Toast",
+    "description": "Simple breakfast toast with mashed avocado.",
+    "ingredients": [
+      "2 slices whole grain bread",
+      "1 ripe avocado",
+      "1 tsp lemon juice",
+      "Salt and pepper",
+      "Red pepper flakes (optional)"
+    ],
+    "instructions": [
+      "Toast bread until golden.",
+      "Mash avocado with lemon juice.",
+      "Spread on toast and season."
+    ],
+    "cuisine": "AMERICAN",
+    "mealType": "BREAKFAST",
+    "prepTime": 5,
+    "cookTime": 3,
+    "totalTime": 8,
+    "calories": 220,
+    "protein": 5,
+    "fat": 15,
+    "carbs": 20,
+    "servings": 1,
+    "tags": [
+      "VEGETARIAN",
+      "DAIRY_FREE"
+    ],
+    "source": "OFFICIAL"
+  },
+  {
+    "name": "Tabbouleh",
+    "description": "Fresh Mediterranean salad with bulgur and herbs.",
+    "ingredients": [
+      "1 cup bulgur wheat",
+      "2 cups boiling water",
+      "1 bunch parsley",
+      "1/4 cup mint leaves",
+      "2 tomatoes",
+      "1 cucumber",
+      "3 tbsp olive oil",
+      "2 tbsp lemon juice"
+    ],
+    "instructions": [
+      "Soak bulgur in boiling water for 30 minutes.",
+      "Chop all vegetables and herbs finely.",
+      "Mix everything with oil and lemon juice.",
+      "Chill before serving."
+    ],
+    "cuisine": "MEDITERRANEAN",
+    "mealType": "SALAD",
+    "prepTime": 15,
+    "cookTime": 0,
+    "totalTime": 45,
+    "calories": 200,
+    "protein": 5,
+    "fat": 10,
+    "carbs": 25,
+    "servings": 4,
+    "tags": [
+      "VEGAN",
+      "GLUTEN_FREE"
+    ],
+    "source": "OFFICIAL"
+  },
+  {
+    "name": "Guacamole",
+    "description": "A creamy and flavorful Mexican dip made with avocados.",
+    "ingredients": [
+      "Ripe avocados",
+      "Red onion, finely chopped",
+      "Serrano pepper or jalapeño, minced (optional)",
+      "Cilantro, chopped",
+      "Lime juice",
+      "Salt"
+    ],
+    "instructions": [
+      "Halve avocados, remove pits, and scoop the flesh into a bowl.",
+      "Mash the avocado with a fork to your desired consistency.",
+      "Stir in chopped red onion, minced pepper (if using), and cilantro.",
+      "Add lime juice and salt to taste. Mix well.",
+      "Serve immediately or cover and refrigerate for later."
+    ],
+    "cuisine": "MEXICAN",
+    "mealType": "SNACK",
+    "prepTime": 10,
+    "cookTime": 0,
+    "totalTime": 10,
+    "calories": 180,
+    "protein": 2,
+    "fat": 17,
+    "carbs": 7,
+    "servings": 4,
+    "tags": [
+      "VEGETARIAN",
+      "VEGAN",
+      "GLUTEN_FREE",
+      "DAIRY_FREE",
+      "LOW_CARB",
+      "PALEO"
+    ],
+    "source": "OFFICIAL"
+  },
+  {
+    "name": "Beef Stir-Fry",
+    "description": "A quick and easy Chinese stir-fry with tender beef and vegetables.",
+    "ingredients": [
+      "Beef sirloin or flank steak, thinly sliced",
+      "Soy sauce",
+      "Cornstarch",
+      "Sesame oil",
+      "Vegetable oil",
+      "Broccoli florets",
+      "Bell peppers (red, yellow, or green), sliced",
+      "Onion, sliced",
+      "Garlic, minced",
+      "Ginger, grated",
+      "Oyster sauce (optional)",
+      "Cooked rice, for serving"
+    ],
+    "instructions": [
+      "In a bowl, toss beef slices with soy sauce and cornstarch. Let it marinate for 15 minutes.",
+      "Heat vegetable oil in a wok or large skillet over high heat. Add beef and stir-fry until browned.",
+      "Remove beef from the wok and set aside.",
+      "Add broccoli, bell peppers, and onion to the wok and stir-fry for 3-5 minutes until slightly tender-crisp.",
+      "Stir in minced garlic and grated ginger and cook for 1 minute more.",
+      "Return the beef to the wok. Add oyster sauce (if using) and sesame oil. Stir well to combine.",
+      "Serve hot over cooked rice."
+    ],
+    "cuisine": "CHINESE",
+    "mealType": "DINNER",
+    "prepTime": 20,
+    "cookTime": 15,
+    "totalTime": 35,
+    "calories": 380,
+    "protein": 30,
+    "fat": 20,
+    "carbs": 25,
+    "servings": 4,
+    "tags": [
+      "HIGH_PROTEIN"
+    ],
+    "source": "OFFICIAL"
+  },
+  {
+    "name": "Classic Burger",
+    "description": "A quintessential American burger with a juicy beef patty.",
+    "ingredients": [
+      "Ground beef",
+      "Burger buns",
+      "Lettuce leaves",
+      "Tomato slices",
+      "Onion slices",
+      "Pickle slices",
+      "Ketchup",
+      "Mustard",
+      "Salt",
+      "Black pepper",
+      "Cheese slices (optional)"
+    ],
+    "instructions": [
+      "Gently form ground beef into patties. Season with salt and pepper.",
+      "Heat a grill or skillet over medium-high heat. Cook patties for 3-4 minutes per side for medium-rare, or longer to your preference.",
+      "During the last minute of cooking, place cheese slices on top of the patties if desired.",
+      "Lightly toast the burger buns.",
+      "Assemble the burgers with lettuce, tomato, onion, pickles, ketchup, and mustard."
+    ],
+    "cuisine": "AMERICAN",
+    "mealType": "LUNCH",
+    "prepTime": 10,
+    "cookTime": 15,
+    "totalTime": 25,
+    "calories": 400,
+    "protein": 30,
+    "fat": 25,
+    "carbs": 20,
+    "servings": 4,
+    "tags": [
+      "HIGH_PROTEIN"
+    ],
+    "source": "OFFICIAL"
+  },
+  {
+    "name": "French Onion Soup",
+    "description": "A rich and flavorful French soup with caramelized onions and a cheesy crouton topping.",
+    "ingredients": [
+      "Yellow onions, thinly sliced",
+      "Butter",
+      "Olive oil",
+      "Beef broth",
+      "Dry white wine (optional)",
+      "Bay leaf",
+      "Thyme sprigs",
+      "Salt",
+      "Black pepper",
+      "Baguette slices",
+      "Gruyère cheese, shredded"
+    ],
+    "instructions": [
+      "Melt butter and olive oil in a large pot over medium-low heat. Add sliced onions and cook slowly, stirring occasionally, until deeply caramelized (about 30-40 minutes).",
+      "Add beef broth and white wine (if using) to the pot. Stir in bay leaf and thyme sprigs. Season with salt and pepper.",
+      "Bring to a simmer, then reduce heat and cook for another 15-20 minutes.",
+      "Preheat broiler. Place baguette slices on a baking sheet and toast lightly.",
+      "Ladle soup into oven-safe bowls. Place a toasted baguette slice on top of each bowl and sprinkle generously with Gruyère cheese.",
+      "Broil for 2-3 minutes, or until the cheese is melted and bubbly.",
+      "Remove from broiler and let cool slightly before serving."
+    ],
+    "cuisine": "FRENCH",
+    "mealType": "SOUP",
+    "prepTime": 20,
+    "cookTime": 60,
+    "totalTime": 80,
+    "calories": 320,
+    "protein": 15,
+    "fat": 18,
+    "carbs": 25,
+    "servings": 4,
+    "tags": [],
+    "source": "OFFICIAL"
+  },
+  {
+    "name": "Caprese Salad",
+    "description": "A simple and elegant Italian salad with fresh mozzarella, tomatoes, and basil.",
+    "ingredients": [
+      "Fresh mozzarella cheese, sliced",
+      "Ripe tomatoes, sliced",
+      "Fresh basil leaves",
+      "Extra virgin olive oil",
+      "Balsamic glaze (optional)",
+      "Salt",
+      "Black pepper"
+    ],
+    "instructions": [
+      "Arrange alternating slices of mozzarella and tomatoes on a platter.",
+      "Tuck fresh basil leaves between the cheese and tomato slices.",
+      "Drizzle generously with extra virgin olive oil.",
+      "Drizzle with balsamic glaze if desired.",
+      "Season with salt and black pepper to taste.",
+      "Serve immediately."
+    ],
+    "cuisine": "ITALIAN",
+    "mealType": "SALAD",
+    "prepTime": 10,
+    "cookTime": 0,
+    "totalTime": 10,
+    "calories": 180,
+    "protein": 10,
+    "fat": 15,
+    "carbs": 5,
+    "servings": 2,
+    "tags": [
+      "VEGETARIAN",
+      "GLUTEN_FREE"
+    ],
+    "source": "OFFICIAL"
+  },
+  {
+    "name": "Grilled Chicken Salad",
+    "description": "A healthy and protein-rich salad with grilled chicken, fresh veggies, and a light dressing.",
+    "ingredients": [
+      "chicken breast",
+      "lettuce",
+      "cucumber",
+      "cherry tomatoes",
+      "olive oil",
+      "lemon juice",
+      "salt",
+      "pepper"
+    ],
+    "instructions": [
+      "Season chicken breast with salt and pepper.",
+      "Grill the chicken until fully cooked.",
+      "Chop vegetables and place them in a bowl.",
+      "Slice the grilled chicken and add on top.",
+      "Drizzle with olive oil and lemon juice before serving."
+    ],
+    "cuisine": "MEDITERRANEAN",
+    "mealType": "SALAD",
+    "prepTime": 10,
+    "cookTime": 15,
+    "totalTime": 25,
+    "calories": 350,
+    "protein": 35,
+    "fat": 15,
+    "carbs": 10,
+    "servings": 1,
+    "tags": [
+      "HIGH_PROTEIN",
+      "LOW_CARB",
+      "MEAL_PREP"
+    ],
+    "source": "OFFICIAL"
+  },
+  {
+    "name": "Vegetable Stir-Fry",
+    "description": "Quick and easy stir-fried vegetables with a savory soy-based sauce.",
+    "ingredients": [
+      "broccoli",
+      "bell pepper",
+      "carrots",
+      "soy sauce",
+      "garlic",
+      "olive oil",
+      "onion"
+    ],
+    "instructions": [
+      "Heat olive oil in a pan.",
+      "Add chopped garlic and onion, sauté until fragrant.",
+      "Add vegetables and stir-fry on high heat.",
+      "Add soy sauce and cook for another 2-3 minutes.",
+      "Serve hot with or without rice."
+    ],
+    "cuisine": "CHINESE",
+    "mealType": "MAIN_COURSE",
+    "prepTime": 10,
+    "cookTime": 10,
+    "totalTime": 20,
+    "calories": 180,
+    "protein": 6,
+    "fat": 7,
+    "carbs": 20,
+    "servings": 2,
+    "tags": [
+      "VEGAN",
+      "LOW_CARB",
+      "DAIRY_FREE"
+    ],
+    "source": "OFFICIAL"
+  },
+  {
+    "name": "Lentil Soup",
+    "description": "Warm and hearty soup made with lentils, vegetables, and spices.",
+    "ingredients": [
+      "lentils",
+      "carrots",
+      "celery",
+      "onion",
+      "garlic",
+      "tomato paste",
+      "olive oil",
+      "vegetable broth",
+      "spices"
+    ],
+    "instructions": [
+      "Heat oil and sauté garlic, onion, celery, and carrots.",
+      "Add lentils, tomato paste, broth, and spices.",
+      "Bring to boil then simmer until lentils are tender.",
+      "Blend for a creamy texture or serve chunky."
+    ],
+    "cuisine": "ARABIC",
+    "mealType": "SOUP",
+    "prepTime": 10,
+    "cookTime": 30,
+    "totalTime": 40,
+    "calories": 300,
+    "protein": 15,
+    "fat": 6,
+    "carbs": 45,
+    "servings": 3,
+    "tags": [
+      "VEGAN",
+      "GLUTEN_FREE",
+      "HIGH_PROTEIN"
+    ],
+    "source": "OFFICIAL"
+  },
+  {
+    "name": "Chickpea Curry",
+    "description": "Spicy Indian-style curry made with chickpeas and tomatoes.",
+    "ingredients": [
+      "chickpeas",
+      "onion",
+      "garlic",
+      "ginger",
+      "tomatoes",
+      "curry powder",
+      "coconut milk",
+      "olive oil",
+      "spices"
+    ],
+    "instructions": [
+      "Sauté onion, garlic, and ginger in oil.",
+      "Add curry powder and stir until fragrant.",
+      "Add tomatoes and chickpeas, cook for 5 minutes.",
+      "Pour in coconut milk and simmer for 15 minutes.",
+      "Serve with rice or flatbread."
+    ],
+    "cuisine": "INDIAN",
+    "mealType": "DINNER",
+    "prepTime": 10,
+    "cookTime": 25,
+    "totalTime": 35,
+    "calories": 400,
+    "protein": 12,
+    "fat": 18,
+    "carbs": 45,
+    "servings": 2,
+    "tags": [
+      "VEGAN",
+      "GLUTEN_FREE",
+      "DAIRY_FREE"
+    ],
+    "source": "OFFICIAL"
+  },
+  {
+    "name": "Oatmeal with Banana",
+    "description": "Warm oatmeal topped with sliced banana and nuts.",
+    "ingredients": [
+      "oats",
+      "milk or water",
+      "banana",
+      "cinnamon",
+      "nuts"
+    ],
+    "instructions": [
+      "Cook oats in milk or water until soft.",
+      "Top with sliced banana and sprinkle cinnamon.",
+      "Add nuts for crunch."
+    ],
+    "cuisine": "AMERICAN",
+    "mealType": "BREAKFAST",
+    "prepTime": 5,
+    "cookTime": 5,
+    "totalTime": 10,
+    "calories": 310,
+    "protein": 8,
+    "fat": 9,
+    "carbs": 45,
+    "servings": 1,
+    "tags": [
+      "VEGETARIAN",
+      "MEAL_PREP"
+    ],
+    "source": "OFFICIAL"
+  },
+  {
+    "name": "Baked Salmon with Veggies",
+    "description": "Oven-baked salmon served with a side of roasted vegetables.",
+    "ingredients": [
+      "salmon fillet",
+      "zucchini",
+      "carrots",
+      "olive oil",
+      "lemon",
+      "salt",
+      "pepper"
+    ],
+    "instructions": [
+      "Preheat oven to 200°C (400°F).",
+      "Place salmon and chopped veggies on a baking tray.",
+      "Drizzle with olive oil, lemon, salt, and pepper.",
+      "Bake for 20 minutes or until cooked through."
+    ],
+    "cuisine": "MEDITERRANEAN",
+    "mealType": "MAIN_COURSE",
+    "prepTime": 10,
+    "cookTime": 20,
+    "totalTime": 30,
+    "calories": 420,
+    "protein": 35,
+    "fat": 25,
+    "carbs": 10,
+    "servings": 1,
+    "tags": [
+      "LOW_CARB",
+      "HIGH_PROTEIN",
+      "KETO"
+    ],
+    "source": "OFFICIAL"
+  },
+  {
+    "name": "Hummus with Pita Bread",
+    "description": "Classic hummus dip served with warm pita bread slices.",
+    "ingredients": [
+      "chickpeas",
+      "tahini",
+      "garlic",
+      "lemon juice",
+      "olive oil",
+      "salt",
+      "pita bread"
+    ],
+    "instructions": [
+      "Blend chickpeas, tahini, garlic, lemon juice, olive oil, and salt until smooth.",
+      "Serve in a bowl with a drizzle of olive oil.",
+      "Warm the pita bread and serve on the side."
+    ],
+    "cuisine": "ARABIC",
+    "mealType": "APPETIZER",
+    "prepTime": 10,
+    "cookTime": 5,
+    "totalTime": 15,
+    "calories": 300,
+    "protein": 10,
+    "fat": 15,
+    "carbs": 30,
+    "servings": 2,
+    "tags": [
+      "VEGAN",
+      "GLUTEN_FREE",
+      "DAIRY_FREE"
+    ],
+    "source": "OFFICIAL"
+  },
+  {
+    "name": "Zucchini Noodles with Pesto",
+    "description": "Low-carb zucchini noodles tossed in a fresh basil pesto sauce.",
+    "ingredients": [
+      "zucchini",
+      "basil",
+      "garlic",
+      "pine nuts",
+      "olive oil",
+      "parmesan cheese",
+      "salt"
+    ],
+    "instructions": [
+      "Spiralize the zucchini to make noodles.",
+      "Blend basil, garlic, pine nuts, olive oil, and parmesan to make pesto.",
+      "Toss noodles with pesto and serve fresh or lightly sautéed."
+    ],
+    "cuisine": "ITALIAN",
+    "mealType": "SIDE_DISH",
+    "prepTime": 10,
+    "cookTime": 5,
+    "totalTime": 15,
+    "calories": 200,
+    "protein": 6,
+    "fat": 16,
+    "carbs": 8,
+    "servings": 2,
+    "tags": [
+      "LOW_CARB",
+      "VEGETARIAN",
+      "MEAL_PREP"
+    ],
+    "source": "OFFICIAL"
+  },
+  {
+    "name": "Chicken Fajitas",
+    "ingredients": [
+      "Chicken breasts, sliced",
+      "Bell peppers (red, green, yellow), sliced",
+      "Onion, sliced",
+      "Vegetable oil",
+      "Fajita seasoning",
+      "Flour tortillas",
+      "Salsa",
+      "Guacamole",
+      "Sour cream"
+    ],
+    "instructions": [
+      "Heat vegetable oil in a large skillet over medium-high heat.",
+      "Add sliced chicken, bell peppers, and onion to the skillet.",
+      "Sprinkle with fajita seasoning and cook until chicken is cooked through and vegetables are tender-crisp.",
+      "Warm flour tortillas according to package directions.",
+      "Serve chicken and vegetable mixture in warm tortillas with salsa, guacamole, and sour cream."
+    ],
+    "cuisine": "MEXICAN",
+    "mealType": "DINNER",
+    "prepTime": 20,
+    "cookTime": 25,
+    "totalTime": 45,
+    "calories": 400,
+    "protein": 30,
+    "fat": 15,
+    "carbs": 40,
+    "servings": 4,
+    "tags": [
+      "HIGH_PROTEIN"
+    ],
+    "source": "OFFICIAL"
+  },
+  {
+    "name": "Vegetable Biryani",
+    "description": "A flavorful Indian mixed rice dish with vegetables and aromatic spices.",
+    "ingredients": [
+      "Basmati rice",
+      "Mixed vegetables (carrots, peas, beans, potatoes)",
+      "Onion, sliced",
+      "Ginger-garlic paste",
+      "Green chilies, slit",
+      "Yogurt",
+      "Biryani masala",
+      "Turmeric powder",
+      "Cilantro, chopped",
+      "Mint leaves",
+      "Ghee or oil",
+      "Saffron strands soaked in milk",
+      "Salt"
+    ],
+    "instructions": [
+      "Soak basmati rice for 30 minutes.",
+      "Heat ghee or oil in a heavy-bottomed pot. Add sliced onion and sauté until golden brown.",
+      "Add ginger-garlic paste and green chilies and sauté for a minute.",
+      "Add mixed vegetables, biryani masala, turmeric powder, and salt. Cook for a few minutes.",
+      "Stir in yogurt, chopped cilantro, and mint leaves.",
+      "Drain the soaked rice and add it to the pot. Add enough water to cook the rice.",
+      "Bring to a boil, then reduce heat to low, cover, and cook until rice is done.",
+      "Garnish with saffron milk before serving."
+    ],
+    "cuisine": "INDIAN",
+    "mealType": "DINNER",
+    "prepTime": 25,
+    "cookTime": 40,
+    "totalTime": 65,
+    "calories": 350,
+    "protein": 8,
+    "fat": 10,
+    "carbs": 55,
+    "servings": 4,
+    "tags": [
+      "VEGETARIAN",
+      "GLUTEN_FREE"
+    ],
+    "source": "OFFICIAL"
+  },
+  {
+    "name": "Beef and Broccoli Stir-Fry",
+    "ingredients": [
+      "Beef sirloin, thinly sliced",
+      "Broccoli florets",
+      "Soy sauce",
+      "Cornstarch",
+      "Sesame oil",
+      "Vegetable oil",
+      "Garlic, minced",
+      "Ginger, grated",
+      "Oyster sauce (optional)",
+      "Cooked rice"
+    ],
+    "instructions": [
+      "In a bowl, toss beef slices with soy sauce and cornstarch. Let it marinate for 15 minutes.",
+      "Heat vegetable oil in a wok or large skillet over high heat.",
+      "Add beef and stir-fry until browned.",
+      "Add broccoli florets, minced garlic, and grated ginger. Stir-fry until broccoli is tender-crisp.",
+      "Stir in oyster sauce (if using) and sesame oil.",
+      "Serve hot over cooked rice."
+    ],
+    "cuisine": "CHINESE",
+    "mealType": "DINNER",
+    "prepTime": 15,
+    "cookTime": 20,
+    "totalTime": 35,
+    "calories": 420,
+    "protein": 35,
+    "fat": 20,
+    "carbs": 25,
+    "servings": 4,
+    "tags": [
+      "HIGH_PROTEIN"
+    ],
+    "source": "OFFICIAL"
+  },
+  {
+    "name": "Miso Soup with Tofu and Seaweed",
+    "ingredients": [
+      "Dashi stock",
+      "Miso paste",
+      "Tofu, cubed",
+      "Wakame seaweed, soaked",
+      "Green onions, thinly sliced"
+    ],
+    "instructions": [
+      "Heat dashi stock in a saucepan until simmering.",
+      "In a small bowl, whisk a small amount of the hot dashi with the miso paste until dissolved.",
+      "Pour the miso mixture back into the saucepan and stir well. Do not boil.",
+      "Add cubed tofu and soaked wakame seaweed to the soup.",
+      "Simmer gently for a few minutes until heated through.",
+      "Garnish with thinly sliced green onions before serving."
+    ],
+    "cuisine": "JAPANESE",
+    "mealType": "SOUP",
+    "prepTime": 5,
+    "cookTime": 10,
+    "totalTime": 15,
+    "calories": 70,
+    "protein": 5,
+    "fat": 3,
+    "carbs": 6,
+    "servings": 2,
+    "tags": [
+      "VEGETARIAN",
+      "VEGAN",
+      "DAIRY_FREE"
+    ],
+    "source": "OFFICIAL"
+  },
+  {
+    "name": "Classic Hamburger",
+    "ingredients": [
+      "Ground beef",
+      "Hamburger buns",
+      "Lettuce leaves",
+      "Tomato slices",
+      "Onion slices",
+      "Pickle slices",
+      "Ketchup",
+      "Mustard",
+      "Salt",
+      "Black pepper"
+    ],
+    "instructions": [
+      "Gently form ground beef into patties and season with salt and pepper.",
+      "Preheat a grill or skillet over medium-high heat.",
+      "Cook patties for 3-4 minutes per side for medium-rare, or to desired doneness.",
+      "Lightly toast hamburger buns.",
+      "Assemble hamburgers with lettuce, tomato, onion, pickles, ketchup, and mustard."
+    ],
+    "cuisine": "AMERICAN",
+    "mealType": "LUNCH",
+    "prepTime": 10,
+    "cookTime": 15,
+    "totalTime": 25,
+    "calories": 350,
+    "protein": 25,
+    "fat": 20,
+    "carbs": 20,
+    "servings": 4,
+    "tags": [
+      "HIGH_PROTEIN"
+    ],
+    "source": "OFFICIAL"
+  },
+  {
+    "name": "Tzatziki Sauce",
+    "description": "A refreshing Greek yogurt-based sauce with cucumber and garlic.",
+    "ingredients": [
+      "Greek yogurt",
+      "Cucumber, grated",
+      "Garlic clove, minced",
+      "Fresh dill, chopped",
+      "Lemon juice",
+      "Olive oil",
+      "Salt",
+      "Black pepper"
+    ],
+    "instructions": [
+      "Grate the cucumber and squeeze out excess liquid.",
+      "In a bowl, combine Greek yogurt, grated cucumber, minced garlic, and chopped dill.",
+      "Stir in lemon juice and a drizzle of olive oil.",
+      "Season with salt and freshly ground black pepper to taste.",
+      "Refrigerate for at least 30 minutes to allow flavors to meld."
+    ],
+    "cuisine": "GREEK",
+    "mealType": "SIDE_DISH",
+    "prepTime": 10,
+    "cookTime": 0,
+    "totalTime": 10,
+    "calories": 80,
+    "protein": 5,
+    "fat": 5,
+    "carbs": 3,
+    "servings": 4,
+    "tags": [
+      "VEGETARIAN",
+      "GLUTEN_FREE"
+    ],
+    "source": "OFFICIAL"
+  },
+  {
+    "name": "Quinoa Tabbouleh",
+    "description": "A fresh and light salad with quinoa, parsley, mint, and lemon.",
+    "ingredients": [
+      "quinoa",
+      "parsley",
+      "mint",
+      "tomatoes",
+      "cucumber",
+      "lemon juice",
+      "olive oil",
+      "salt"
+    ],
+    "instructions": [
+      "Cook quinoa and let it cool.",
+      "Chop parsley, mint, tomatoes, and cucumber.",
+      "Mix all ingredients together in a bowl.",
+      "Add lemon juice, olive oil, and salt.",
+      "Toss well and serve chilled."
+    ],
+    "cuisine": "MEDITERRANEAN",
+    "mealType": "SALAD",
+    "prepTime": 15,
+    "cookTime": 15,
+    "totalTime": 30,
+    "calories": 220,
+    "protein": 6,
+    "fat": 10,
+    "carbs": 26,
+    "servings": 2,
+    "tags": [
+      "VEGAN",
+      "GLUTEN_FREE",
+      "MEAL_PREP"
+    ],
+    "source": "OFFICIAL"
+  },
+  {
+    "name": "Turkey Lettuce Wraps",
+    "description": "Low-carb wraps made with ground turkey and crispy lettuce.",
+    "ingredients": [
+      "ground turkey",
+      "garlic",
+      "onion",
+      "soy sauce",
+      "lettuce leaves",
+      "carrots",
+      "ginger"
+    ],
+    "instructions": [
+      "Sauté garlic, onion, and ginger.",
+      "Add ground turkey and cook until browned.",
+      "Stir in soy sauce and shredded carrots.",
+      "Spoon into lettuce leaves and serve."
+    ],
+    "cuisine": "CHINESE",
+    "mealType": "LUNCH",
+    "prepTime": 10,
+    "cookTime": 15,
+    "totalTime": 25,
+    "calories": 250,
+    "protein": 20,
+    "fat": 10,
+    "carbs": 8,
+    "servings": 2,
+    "tags": [
+      "LOW_CARB",
+      "HIGH_PROTEIN",
+      "MEAL_PREP"
+    ],
+    "source": "OFFICIAL"
+  },
+  {
+    "name": "Eggplant Parmesan",
+    "description": "Baked eggplant slices layered with tomato sauce and cheese.",
+    "ingredients": [
+      "eggplant",
+      "olive oil",
+      "tomato sauce",
+      "mozzarella",
+      "parmesan",
+      "basil",
+      "salt"
+    ],
+    "instructions": [
+      "Slice and bake eggplant with olive oil.",
+      "Layer with tomato sauce and cheeses.",
+      "Bake until golden and bubbly.",
+      "Top with fresh basil and serve."
+    ],
+    "cuisine": "ITALIAN",
+    "mealType": "DINNER",
+    "prepTime": 20,
+    "cookTime": 30,
+    "totalTime": 50,
+    "calories": 400,
+    "protein": 18,
+    "fat": 22,
+    "carbs": 30,
+    "servings": 2,
+    "tags": [
+      "VEGETARIAN",
+      "MEAL_PREP"
+    ],
+    "source": "OFFICIAL"
+  },
+  {
+    "name": "Spicy Tuna Roll",
+    "description": "Japanese-style sushi rolls with spicy tuna filling.",
+    "ingredients": [
+      "sushi rice",
+      "nori",
+      "tuna",
+      "sriracha",
+      "mayonnaise",
+      "soy sauce"
+    ],
+    "instructions": [
+      "Mix chopped tuna with sriracha and mayo.",
+      "Spread rice on nori and add tuna filling.",
+      "Roll tightly and slice into pieces.",
+      "Serve with soy sauce."
+    ],
+    "cuisine": "JAPANESE",
+    "mealType": "LUNCH",
+    "prepTime": 20,
+    "cookTime": 10,
+    "totalTime": 30,
+    "calories": 300,
+    "protein": 22,
+    "fat": 10,
+    "carbs": 28,
+    "servings": 2,
+    "tags": [
+      "HIGH_PROTEIN",
+      "MEAL_PREP"
+    ],
+    "source": "OFFICIAL"
+  },
+  {
+    "name": "Black Bean Tacos",
+    "description": "Easy vegan tacos with seasoned black beans and fresh toppings.",
+    "ingredients": [
+      "black beans",
+      "taco shells",
+      "lettuce",
+      "tomatoes",
+      "avocado",
+      "cumin",
+      "lime"
+    ],
+    "instructions": [
+      "Season and warm black beans.",
+      "Fill taco shells with beans, veggies, and avocado.",
+      "Top with lime juice and serve."
+    ],
+    "cuisine": "MEXICAN",
+    "mealType": "DINNER",
+    "prepTime": 10,
+    "cookTime": 5,
+    "totalTime": 15,
+    "calories": 270,
+    "protein": 10,
+    "fat": 9,
+    "carbs": 35,
+    "servings": 2,
+    "tags": [
+      "VEGAN",
+      "DAIRY_FREE",
+      "GLUTEN_FREE"
+    ],
+    "source": "OFFICIAL"
+  },
+  {
+    "name": "Avocado Chocolate Mousse",
+    "description": "Creamy chocolate dessert made with ripe avocados.",
+    "ingredients": [
+      "avocado",
+      "cocoa powder",
+      "honey",
+      "vanilla extract",
+      "almond milk"
+    ],
+    "instructions": [
+      "Blend all ingredients until smooth.",
+      "Chill for at least 30 minutes before serving."
+    ],
+    "cuisine": "FRENCH",
+    "mealType": "DESSERT",
+    "prepTime": 10,
+    "cookTime": 0,
+    "totalTime": 10,
+    "calories": 280,
+    "protein": 4,
+    "fat": 20,
+    "carbs": 22,
+    "servings": 2,
+    "tags": [
+      "VEGAN",
+      "DAIRY_FREE",
+      "GLUTEN_FREE"
+    ],
+    "source": "OFFICIAL"
+  },
+  {
+    "name": "Stuffed Bell Peppers",
+    "description": "Colorful bell peppers stuffed with a savory rice and veggie mix.",
+    "ingredients": [
+      "bell peppers",
+      "rice",
+      "black beans",
+      "corn",
+      "onion",
+      "spices",
+      "tomato sauce"
+    ],
+    "instructions": [
+      "Cook rice and mix with beans, corn, and spices.",
+      "Stuff mixture into bell peppers.",
+      "Top with tomato sauce and bake until tender."
+    ],
+    "cuisine": "MEXICAN",
+    "mealType": "MAIN_COURSE",
+    "prepTime": 15,
+    "cookTime": 25,
+    "totalTime": 40,
+    "calories": 330,
+    "protein": 12,
+    "fat": 8,
+    "carbs": 50,
+    "servings": 2,
+    "tags": [
+      "VEGETARIAN",
+      "GLUTEN_FREE",
+      "MEAL_PREP"
+    ],
+    "source": "OFFICIAL"
+  },
+  {
+    "name": "Chicken Fajita Bowl",
+    "description": "Deconstructed fajitas served in a nutritious bowl.",
+    "ingredients": [
+      "chicken breast",
+      "bell peppers",
+      "onion",
+      "brown rice",
+      "lime",
+      "spices"
+    ],
+    "instructions": [
+      "Cook chicken with spices until browned.",
+      "Sauté peppers and onions.",
+      "Serve over brown rice with a squeeze of lime."
+    ],
+    "cuisine": "MEXICAN",
+    "mealType": "LUNCH",
+    "prepTime": 10,
+    "cookTime": 20,
+    "totalTime": 30,
+    "calories": 450,
+    "protein": 35,
+    "fat": 12,
+    "carbs": 40,
+    "servings": 2,
+    "tags": [
+      "HIGH_PROTEIN",
+      "MEAL_PREP"
+    ],
+    "source": "OFFICIAL"
+  },
+  {
+    "name": "French Omelette",
+    "description": "Classic fluffy omelette with herbs and cheese.",
+    "ingredients": [
+      "eggs",
+      "butter",
+      "parsley",
+      "chives",
+      "cheese",
+      "salt",
+      "pepper"
+    ],
+    "instructions": [
+      "Whisk eggs and season.",
+      "Cook in butter and gently fold with cheese and herbs.",
+      "Serve hot."
+    ],
+    "cuisine": "FRENCH",
+    "mealType": "BREAKFAST",
+    "prepTime": 5,
+    "cookTime": 5,
+    "totalTime": 10,
+    "calories": 270,
+    "protein": 14,
+    "fat": 22,
+    "carbs": 2,
+    "servings": 1,
+    "tags": [
+      "KETO",
+      "HIGH_PROTEIN",
+      "LOW_CARB"
+    ],
+    "source": "OFFICIAL"
+  },
+  {
+    "name": "Shakshuka",
+    "description": "Poached eggs in a spiced tomato sauce.",
+    "ingredients": [
+      "eggs",
+      "tomatoes",
+      "onion",
+      "garlic",
+      "bell pepper",
+      "paprika",
+      "olive oil"
+    ],
+    "instructions": [
+      "Sauté onion, garlic, and pepper.",
+      "Add tomatoes and spices, simmer until thickened.",
+      "Crack eggs into sauce and poach until whites are set.",
+      "Serve with crusty bread."
+    ],
+    "cuisine": "ARABIC",
+    "mealType": "BREAKFAST",
+    "prepTime": 10,
+    "cookTime": 15,
+    "totalTime": 25,
+    "calories": 300,
+    "protein": 12,
+    "fat": 20,
+    "carbs": 18,
+    "servings": 2,
+    "tags": [
+      "VEGETARIAN",
+      "LOW_CARB"
+    ],
+    "source": "OFFICIAL"
+  },
+  {
+    "name": "Tofu Stir-Fry",
+    "description": "Quick vegan stir-fry with tofu and mixed vegetables.",
+    "ingredients": [
+      "tofu",
+      "broccoli",
+      "carrots",
+      "bell peppers",
+      "soy sauce",
+      "garlic",
+      "ginger"
+    ],
+    "instructions": [
+      "Pan-fry tofu until golden.",
+      "Sauté vegetables and add tofu back.",
+      "Add soy sauce, garlic, and ginger.",
+      "Serve hot."
+    ],
+    "cuisine": "CHINESE",
+    "mealType": "MAIN_COURSE",
+    "prepTime": 10,
+    "cookTime": 10,
+    "totalTime": 20,
+    "calories": 280,
+    "protein": 15,
+    "fat": 14,
+    "carbs": 20,
+    "servings": 2,
+    "tags": [
+      "VEGAN",
+      "HIGH_PROTEIN",
+      "DAIRY_FREE"
+    ],
+    "source": "OFFICIAL"
+  },
+  {
+    "name": "Greek Chicken Skewers",
+    "description": "Grilled chicken marinated in lemon and oregano.",
+    "ingredients": [
+      "chicken breast",
+      "lemon juice",
+      "oregano",
+      "olive oil",
+      "garlic",
+      "salt"
+    ],
+    "instructions": [
+      "Marinate chicken in lemon, garlic, oregano, and oil.",
+      "Thread onto skewers and grill until done.",
+      "Serve with salad or rice."
+    ],
+    "cuisine": "GREEK",
+    "mealType": "DINNER",
+    "prepTime": 15,
+    "cookTime": 15,
+    "totalTime": 30,
+    "calories": 320,
+    "protein": 35,
+    "fat": 18,
+    "carbs": 5,
+    "servings": 2,
+    "tags": [
+      "KETO",
+      "HIGH_PROTEIN",
+      "LOW_CARB"
+    ],
+    "source": "OFFICIAL"
+  },
+  {
+    "name": "Chia Pudding",
+    "description": "A healthy snack or breakfast made with chia seeds and plant milk.",
+    "ingredients": [
+      "chia seeds",
+      "almond milk",
+      "vanilla extract",
+      "maple syrup",
+      "berries"
+    ],
+    "instructions": [
+      "Mix chia seeds, milk, vanilla, and syrup.",
+      "Refrigerate overnight until thick.",
+      "Top with fresh berries before serving."
+    ],
+    "cuisine": "AMERICAN",
+    "mealType": "SNACK",
+    "prepTime": 5,
+    "cookTime": 0,
+    "totalTime": 5,
+    "calories": 180,
+    "protein": 5,
+    "fat": 10,
+    "carbs": 15,
+    "servings": 1,
+    "tags": [
+      "VEGAN",
+      "GLUTEN_FREE",
+      "MEAL_PREP"
+    ],
+    "source": "OFFICIAL"
+  },
+  {
+    "name": "Pasta Aglio e Olio",
+    "ingredients": [
+      "Spaghetti",
+      "Garlic, thinly sliced",
+      "Extra virgin olive oil",
+      "Red pepper flakes",
+      "Fresh parsley, chopped",
+      "Salt",
+      "Black pepper",
+      "Grated Parmesan cheese (optional)"
+    ],
+    "instructions": [
+      "Cook spaghetti according to package directions until al dente.",
+      "While pasta cooks, heat olive oil in a large skillet over low heat.",
+      "Add sliced garlic and red pepper flakes to the skillet. Cook gently until garlic is fragrant and lightly golden, about 3-5 minutes. Be careful not to burn the garlic.",
+      "Reserve about 1 cup of pasta water before draining the spaghetti.",
+      "Add the drained spaghetti to the skillet with the garlic and oil. Toss to combine.",
+      "Add some of the reserved pasta water to create a light sauce that coats the pasta.",
+      "Stir in chopped fresh parsley. Season with salt and black pepper to taste.",
+      "Serve immediately, garnished with grated Parmesan cheese if desired."
+    ],
+    "cuisine": "ITALIAN",
+    "mealType": "DINNER",
+    "prepTime": 5,
+    "cookTime": 20,
+    "totalTime": 25,
+    "calories": 400,
+    "protein": 15,
+    "fat": 20,
+    "carbs": 45,
+    "servings": 4,
+    "tags": [
+      "VEGETARIAN"
+    ],
+    "source": "OFFICIAL"
+  },
+  {
+    "name": "Black Bean Salsa",
+    "ingredients": [
+      "Canned black beans, rinsed and drained",
+      "Corn kernels (fresh or frozen)",
+      "Red onion, finely chopped",
+      "Bell pepper (red or yellow), diced",
+      "Jalapeño, minced (optional)",
+      "Cilantro, chopped",
+      "Lime juice",
+      "Olive oil",
+      "Salt",
+      "Black pepper"
+    ],
+    "instructions": [
+      "In a medium bowl, combine rinsed black beans, corn kernels, chopped red onion, and diced bell pepper.",
+      "Add minced jalapeño (if using) and chopped cilantro.",
+      "In a small bowl, whisk together lime juice, olive oil, salt, and black pepper.",
+      "Pour the dressing over the black bean mixture and stir gently to combine.",
+      "Refrigerate for at least 15 minutes to allow flavors to meld.",
+      "Serve as a dip with tortilla chips or as a topping for grilled chicken or fish."
+    ],
+    "cuisine": "MEXICAN",
+    "mealType": "SNACK",
+    "prepTime": 15,
+    "cookTime": 0,
+    "totalTime": 15,
+    "calories": 150,
+    "protein": 5,
+    "fat": 5,
+    "carbs": 20,
+    "servings": 4,
+    "tags": [
+      "VEGETARIAN",
+      "VEGAN",
+      "GLUTEN_FREE",
+      "DAIRY_FREE"
+    ],
+    "source": "OFFICIAL"
+  },
+  {
+    "name": "Aloo Gobi (Potato and Cauliflower Curry)",
+    "ingredients": [
+      "Potatoes, cubed",
+      "Cauliflower florets",
+      "Onion, chopped",
+      "Ginger-garlic paste",
+      "Tomato, chopped",
+      "Turmeric powder",
+      "Cumin powder",
+      "Coriander powder",
+      "Garam masala",
+      "Vegetable oil",
+      "Cilantro, chopped",
+      "Salt"
+    ],
+    "instructions": [
+      "Heat vegetable oil in a pot or pan. Add chopped onion and sauté until golden brown.",
+      "Add ginger-garlic paste and sauté for a minute.",
+      "Stir in chopped tomato and cook until softened.",
+      "Add turmeric powder, cumin powder, coriander powder, and salt. Cook for a minute.",
+      "Add cubed potatoes and cauliflower florets. Stir well to coat with the spices.",
+      "Add a little water, cover, and cook until potatoes and cauliflower are tender.",
+      "Stir in garam masala and chopped cilantro before serving hot with roti or rice."
+    ],
+    "cuisine": "INDIAN",
+    "mealType": "SIDE_DISH",
+    "prepTime": 15,
+    "cookTime": 30,
+    "totalTime": 45,
+    "calories": 200,
+    "protein": 5,
+    "fat": 10,
+    "carbs": 25,
+    "servings": 4,
+    "tags": [
+      "VEGETARIAN",
+      "VEGAN",
+      "GLUTEN_FREE",
+      "DAIRY_FREE"
+    ],
+    "source": "OFFICIAL"
+  },
+  {
+    "name": "Egg Fried Rice",
+    "ingredients": [
+      "Cooked rice (preferably day-old)",
+      "Eggs",
+      "Soy sauce",
+      "Vegetable oil",
+      "Onion, chopped",
+      "Carrot, diced",
+      "Peas (fresh or frozen)",
+      "Scallions, chopped",
+      "Sesame oil (optional)"
+    ],
+    "instructions": [
+      "Lightly beat the eggs in a bowl and set aside.",
+      "Heat vegetable oil in a wok or large skillet over medium-high heat.",
+      "Pour in the beaten eggs and scramble until cooked. Remove from the wok and set aside.",
+      "Add more vegetable oil to the wok. Add chopped onion and diced carrot and stir-fry for a few minutes until slightly softened.",
+      "Add peas and cooked rice to the wok. Break up any clumps of rice and stir-fry for a few minutes.",
+      "Stir in soy sauce and the cooked scrambled eggs.",
+      "Stir in chopped scallions and sesame oil (if using). Serve hot."
+    ],
+    "cuisine": "CHINESE",
+    "mealType": "LUNCH",
+    "prepTime": 10,
+    "cookTime": 20,
+    "totalTime": 30,
+    "calories": 300,
+    "protein": 10,
+    "fat": 12,
+    "carbs": 40,
+    "servings": 4,
+    "tags": [],
+    "source": "OFFICIAL"
+  },
+  {
+    "name": "Edamame",
+    "ingredients": [
+      "Fresh or frozen edamame pods",
+      "Salt"
+    ],
+    "instructions": [
+      "Bring a pot of salted water to a boil.",
+      "Add edamame pods and cook for 3-5 minutes if fresh, or 5-7 minutes if frozen, until tender.",
+      "Drain the edamame and sprinkle with more salt if desired.",
+      "Serve warm as a snack or appetizer."
+    ],
+    "cuisine": "JAPANESE",
+    "mealType": "SNACK",
+    "prepTime": 2,
+    "cookTime": 7,
+    "totalTime": 9,
+    "calories": 120,
+    "protein": 11,
+    "fat": 5,
+    "carbs": 10,
+    "servings": 2,
+    "tags": [
+      "VEGETARIAN",
+      "VEGAN",
+      "GLUTEN_FREE",
+      "DAIRY_FREE",
+      "HIGH_PROTEIN"
+    ],
+    "source": "OFFICIAL"
+  },
+  {
+    "name": "Baba Ghanoush",
+    "description": "A smoky and creamy Mediterranean eggplant dip.",
+    "ingredients": [
+      "Eggplant",
+      "Tahini",
+      "Lemon juice",
+      "Garlic clove, minced",
+      "Olive oil",
+      "Salt",
+      "Fresh parsley, chopped (for garnish)"
+    ],
+    "instructions": [
+      "Preheat oven to 400°F (200°C).",
+      "Prick the eggplant all over with a fork.",
+      "Roast the eggplant directly on the oven rack or on a baking sheet for 40-60 minutes, or until the skin is charred and the eggplant is very soft.",
+      "Let the eggplant cool slightly, then scoop out the flesh into a bowl.",
+      "Mash the eggplant flesh with a fork or blend in a food processor until smooth.",
+      "Stir in tahini, lemon juice, minced garlic, and salt. Mix well.",
+      "Transfer to a serving dish, drizzle with olive oil, and garnish with chopped fresh parsley.",
+      "Serve with pita bread or vegetables."
+    ],
+    "cuisine": "MEDITERRANEAN",
+    "mealType": "APPETIZER",
+    "prepTime": 10,
+    "cookTime": 60,
+    "totalTime": 70,
+    "calories": 180,
+    "protein": 5,
+    "fat": 15,
+    "carbs": 10,
+    "servings": 4,
+    "tags": [
+      "VEGETARIAN",
+      "VEGAN",
+      "GLUTEN_FREE",
+      "DAIRY_FREE"
+    ],
+    "source": "OFFICIAL"
+  },
+  {
+    "name": "BLT Sandwich",
+    "ingredients": [
+      "Bread slices",
+      "Bacon, cooked",
+      "Lettuce leaves",
+      "Tomato slices",
+      "Mayonnaise"
+    ],
+    "instructions": [
+      "Toast bread slices to your desired crispness.",
+      "Spread mayonnaise on one or both slices of bread.",
+      "Layer cooked bacon, lettuce leaves, and tomato slices on one slice of bread.",
+      "Top with the other slice of bread. Cut in half and serve."
+    ],
+    "cuisine": "AMERICAN",
+    "mealType": "LUNCH",
+    "prepTime": 5,
+    "cookTime": 10,
+    "totalTime": 15,
+    "calories": 350,
+    "protein": 15,
+    "fat": 25,
+    "carbs": 15,
+    "servings": 1,
+    "tags": [],
+    "source": "OFFICIAL"
+  },
+  {
+    "name": "Fattoush Salad",
+    "description": "A Levantine bread salad made with toasted or fried pita bread and mixed greens.",
+    "ingredients": [
+      "Pita bread",
+      "Mixed greens (lettuce, romaine)",
+      "Tomatoes, diced",
+      "Cucumbers, diced",
+      "Red onion, thinly sliced",
+      "Bell pepper (green), diced",
+      "Fresh parsley, chopped",
+      "Fresh mint, chopped",
+      "Sumac",
+      "Olive oil",
+      "Lemon juice",
+      "Garlic clove, minced",
+      "Salt"
+    ],
+    "instructions": [
+      "Cut pita bread into small pieces and either toast them in the oven until crispy or fry them in oil until golden brown. Set aside.",
+      "In a large bowl, combine mixed greens, diced tomatoes, diced cucumbers, thinly sliced red onion, and diced bell pepper.",
+      "Add chopped fresh parsley and fresh mint.",
+      "In a small bowl, whisk together olive oil, lemon juice, minced garlic, sumac, and salt.",
+      "Pour the dressing over the vegetables and toss to combine.",
+      "Just before serving, add the toasted or fried pita bread pieces and toss gently."
+    ],
+    "cuisine": "ARABIC",
+    "mealType": "SALAD",
+    "prepTime": 20,
+    "cookTime": 10,
+    "totalTime": 30,
+    "calories": 280,
+    "protein": 8,
+    "fat": 15,
+    "carbs": 30,
+    "servings": 4,
+    "tags": [
+      "VEGETARIAN",
+      "VEGAN"
+    ],
+    "source": "OFFICIAL"
+  },
+  {
+    "name": "Soupe à l'oignon Gratinée",
+    "description": "The classic French onion soup with a cheesy bread topping.",
+    "ingredients": [
+      "Yellow onions, thinly sliced",
+      "Butter",
+      "Olive oil",
+      "Beef broth",
+      "Dry white wine (optional)",
+      "Bay leaf",
+      "Dried thyme",
+      "Salt",
+      "Black pepper",
+      "Crusty bread slices",
+      "Gruyère cheese, grated"
+    ],
+    "instructions": [
+      "Melt butter and olive oil in a large pot over medium-low heat. Add onions and cook slowly, stirring occasionally, until deeply caramelized, about 30-40 minutes.",
+      "Add beef broth and white wine (if using), bay leaf, and thyme. Season with salt and pepper. Bring to a simmer and cook for 20 minutes.",
+      "Preheat broiler. Ladle soup into oven-safe bowls. Top each bowl with a slice of crusty bread and sprinkle generously with grated Gruyère cheese.",
+      "Place the bowls under the broiler until the cheese is melted and bubbly.",
+      "Remove bay leaf and thyme before serving."
+    ],
+    "cuisine": "FRENCH",
+    "mealType": "SOUP",
+    "prepTime": 20,
+    "cookTime": 60,
+    "totalTime": 80,
+    "calories": 350,
+    "protein": 18,
+    "fat": 20,
+    "carbs": 25,
+    "servings": 4,
+    "tags": [],
+    "source": "OFFICIAL"
+  },
+  {
+    "name": "Spanakopita (Spinach Pie)",
+    "description": "A savory Greek pastry filled with spinach and feta cheese.",
+    "ingredients": [
+      "Phyllo dough",
+      "Spinach, fresh or frozen",
+      "Feta cheese, crumbled",
+      "Onion, chopped",
+      "Scallions, chopped",
+      "Eggs, beaten",
+      "Olive oil",
+      "Salt",
+      "Black pepper",
+      "Fresh dill, chopped (optional)",
+      "Nutmeg (optional)"
+    ],
+    "instructions": [
+      "Preheat oven to 375°F (190°C).",
+      "If using fresh spinach, sauté until wilted and drain well, squeezing out excess liquid. If using frozen, thaw and squeeze out excess liquid.",
+      "Heat olive oil in a skillet. Add chopped onion and scallions and sauté until softened.",
+      "In a large bowl, combine spinach, crumbled feta cheese, sautéed onion mixture, beaten eggs, and chopped dill and nutmeg (if using). Season with salt and pepper.",
+      "Brush a baking dish with olive oil.",
+      "Layer several sheets of phyllo dough in the dish, brushing each sheet with olive oil.",
+      "Spread the spinach and feta filling evenly over the phyllo dough.",
+      "Top with more layers of phyllo dough, brushing each sheet with olive oil.",
+      "Trim any excess dough and crimp the edges to seal. Brush the top with olive oil.",
+      "Bake for 30-40 minutes, or until golden brown and flaky.",
+      "Let cool slightly before serving."
+    ],
+    "cuisine": "GREEK",
+    "mealType": "LUNCH",
+    "prepTime": 30,
+    "cookTime": 40,
+    "totalTime": 70,
+    "calories": 380,
+    "protein": 15,
+    "fat": 25,
+    "carbs": 20,
+    "servings": 6,
+    "tags": [
+      "VEGETARIAN"
+    ],
+    "source": "OFFICIAL"
+  },
+  {
+    "name": "Bruschetta with Tomatoes and Basil",
+    "ingredients": [
+      "Baguette, sliced",
+      "Ripe tomatoes, diced",
+      "Fresh basil leaves, chopped",
+      "Garlic clove, halved",
+      "Extra virgin olive oil",
+      "Salt",
+      "Black pepper"
+    ],
+    "instructions": [
+      "Preheat oven or grill to medium heat.",
+      "Brush baguette slices with olive oil and toast or grill until lightly golden.",
+      "Rub the cut side of the garlic clove over the toasted bread.",
+      "In a bowl, combine diced tomatoes and chopped basil.",
+      "Drizzle with olive oil and season with salt and pepper.",
+      "Spoon the tomato mixture over the toasted baguette slices. Serve immediately."
+    ],
+    "cuisine": "ITALIAN",
+    "mealType": "APPETIZER",
+    "prepTime": 10,
+    "cookTime": 10,
+    "totalTime": 20,
+    "calories": 150,
+    "protein": 5,
+    "fat": 10,
+    "carbs": 15,
+    "servings": 4,
+    "tags": [
+      "VEGETARIAN",
+      "VEGAN"
+    ],
+    "source": "OFFICIAL"
+  },
+  {
+    "name": "Quesadillas",
+    "ingredients": [
+      "Flour tortillas",
+      "Shredded cheese (cheddar, Monterey Jack)",
+      "Cooked chicken or other fillings (optional)",
+      "Vegetable oil (for cooking)"
+    ],
+    "instructions": [
+      "Heat a lightly oiled skillet or griddle over medium heat.",
+      "Place one tortilla in the skillet and sprinkle with shredded cheese.",
+      "Add cooked chicken or other fillings if desired.",
+      "Place another tortilla on top of the cheese.",
+      "Cook for 2-3 minutes per side, or until the tortilla is golden brown and the cheese is melted.",
+      "Remove from skillet and cut into wedges. Serve with salsa, sour cream, or guacamole."
+    ],
+    "cuisine": "MEXICAN",
+    "mealType": "LUNCH",
+    "prepTime": 5,
+    "cookTime": 10,
+    "totalTime": 15,
+    "calories": 300,
+    "protein": 15,
+    "fat": 15,
+    "carbs": 25,
+    "servings": 2,
+    "tags": [],
+    "source": "OFFICIAL"
+  },
+  {
+    "name": "Chana Masala (Chickpea Curry)",
+    "ingredients": [
+      "Canned chickpeas, rinsed and drained",
+      "Onion, chopped",
+      "Tomatoes, diced",
+      "Ginger-garlic paste",
+      "Turmeric powder",
+      "Cumin powder",
+      "Coriander powder",
+      "Garam masala",
+      "Vegetable oil",
+      "Cilantro, chopped",
+      "Salt"
+    ],
+    "instructions": [
+      "Heat vegetable oil in a pot or pan. Add chopped onion and sauté until golden brown.",
+      "Add ginger-garlic paste and sauté for a minute.",
+      "Stir in diced tomatoes and cook until softened.",
+      "Add turmeric powder, cumin powder, coriander powder, and salt. Cook for a minute.",
+      "Add rinsed chickpeas and a little water. Bring to a simmer and cook for 15-20 minutes, or until the chickpeas are tender and the sauce has thickened.",
+      "Stir in garam masala and chopped cilantro before serving hot with rice or naan."
+    ],
+    "cuisine": "INDIAN",
+    "mealType": "DINNER",
+    "prepTime": 10,
+    "cookTime": 30,
+    "totalTime": 40,
+    "calories": 280,
+    "protein": 10,
+    "fat": 8,
+    "carbs": 40,
+    "servings": 4,
+    "tags": [
+      "VEGETARIAN",
+      "VEGAN",
+      "GLUTEN_FREE",
+      "DAIRY_FREE"
+    ],
+    "source": "OFFICIAL"
+  },
+  {
+    "name": "Mapo Tofu",
+    "ingredients": [
+      "Firm tofu, cubed",
+      "Ground pork or beef (optional)",
+      "Doubanjiang (fermented chili bean paste)",
+      "Douchi (fermented black beans), rinsed and chopped",
+      "Garlic, minced",
+      "Ginger, minced",
+      "Chicken or vegetable broth",
+      "Soy sauce",
+      "Cornstarch",
+      "Water",
+      "Sichuan peppercorns",
+      "Scallions, chopped"
+    ],
+    "instructions": [
+      "Bring a pot of lightly salted water to a simmer. Gently add tofu cubes and simmer for a few minutes to help them hold their shape. Drain carefully.",
+      "Heat oil in a wok or skillet over medium heat. Add ground pork or beef (if using) and stir-fry until browned.",
+      "Add doubanjiang and douchi and stir-fry until fragrant.",
+      "Add minced garlic and ginger and stir-fry for a few seconds.",
+      "Pour in chicken or vegetable broth and soy sauce. Bring to a simmer.",
+      "Gently add the drained tofu cubes to the wok.",
+      "In a small bowl, whisk together cornstarch and water to make a slurry. Pour the slurry into the wok and stir gently until the sauce thickens.",
+      "Stir in Sichuan peppercorns. Garnish with chopped scallions and serve hot with rice."
+    ],
+    "cuisine": "CHINESE",
+    "mealType": "DINNER",
+    "prepTime": 15,
+    "cookTime": 25,
+    "totalTime": 40,
+    "calories": 320,
+    "protein": 18,
+    "fat": 20,
+    "carbs": 15,
+    "servings": 4,
+    "tags": [
+      "HIGH_PROTEIN"
+    ],
+    "source": "OFFICIAL"
+  },
+  {
+    "name": "Tempura Vegetables",
+    "ingredients": [
+      "Assorted vegetables (broccoli florets, bell pepper strips, sweet potato slices, green beans)",
+      "Tempura flour",
+      "Ice water",
+      "Vegetable oil (for frying)",
+      "Dipping sauce (soy sauce, dashi, mirin)"
+    ],
+    "instructions": [
+      "Prepare the dipping sauce by combining soy sauce, dashi, and mirin to taste. Set aside.",
+      "Cut vegetables into bite-sized pieces.",
+      "In a bowl, whisk together tempura flour and ice water until just combined. Do not overmix; the batter should be thin and slightly lumpy.",
+      "Heat vegetable oil in a deep fryer or large pot to 350°F (175°C).",
+      "Dip each vegetable piece into the tempura batter, ensuring it is lightly coated.",
+      "Carefully drop the battered vegetables into the hot oil, working in batches to avoid overcrowding.",
+      "Fry for 2-3 minutes, or until golden brown and crispy. Remove with a slotted spoon and drain on paper towels.",
+      "Serve immediately with the prepared dipping sauce."
+    ],
+    "cuisine": "JAPANESE",
+    "mealType": "APPETIZER",
+    "prepTime": 20,
+    "cookTime": 20,
+    "totalTime": 40,
+    "calories": 250,
+    "protein": 5,
+    "fat": 15,
+    "carbs": 25,
+    "servings": 4,
+    "tags": [
+      "VEGETARIAN",
+      "VEGAN"
+    ],
+    "source": "OFFICIAL"
+  },
+  {
+    "name": "Tabbouleh Salad",
+    "description": "A refreshing Mediterranean salad made primarily of finely chopped parsley, tomatoes, mint, onion, and bulgur, seasoned with olive oil, lemon juice, and salt.",
+    "ingredients": [
+      "Fine bulgur wheat",
+      "Fresh parsley, finely chopped",
+      "Ripe tomatoes, finely diced",
+      "Fresh mint, finely chopped",
+      "Red onion, finely chopped",
+      "Extra virgin olive oil",
+      "Fresh lemon juice",
+      "Salt",
+      "Black pepper"
+    ],
+    "instructions": [
+      "Soak bulgur wheat in hot water for 20-30 minutes, or until softened. Drain well, pressing out any excess water.",
+      "In a large bowl, combine soaked bulgur, finely chopped parsley, diced tomatoes, chopped mint, and chopped red onion.",
+      "In a small bowl, whisk together olive oil, lemon juice, salt, and black pepper.",
+      "Pour the dressing over the salad and toss gently to combine.",
+      "Refrigerate for at least 30 minutes to allow the flavors to meld. Serve chilled."
+    ],
+    "cuisine": "MEDITERRANEAN",
+    "mealType": "SALAD",
+    "prepTime": 25,
+    "cookTime": 0,
+    "totalTime": 25,
+    "calories": 180,
+    "protein": 5,
+    "fat": 12,
+    "carbs": 15,
+    "servings": 4,
+    "tags": [
+      "VEGETARIAN",
+      "VEGAN"
+    ],
+    "source": "OFFICIAL"
+  },
+  {
+    "name": "Grilled Cheese Sandwich",
+    "ingredients": [
+      "Bread slices",
+      "Cheese slices (cheddar, American)",
+      "Butter"
+    ],
+    "instructions": [
+      "Spread butter on one side of each bread slice.",
+      "Place one slice of bread, butter-side down, in a skillet over medium heat.",
+      "Place cheese slices on top of the bread.",
+      "Top with the other slice of bread, butter-side up.",
+      "Cook for 3-5 minutes per side, or until the bread is golden brown and the cheese is melted and gooey."
+    ],
+    "cuisine": "AMERICAN",
+    "mealType": "LUNCH",
+    "prepTime": 5,
+    "cookTime": 10,
+    "totalTime": 15,
+    "calories": 300,
+    "protein": 15,
+    "fat": 20,
+    "carbs": 20,
+    "servings": 1,
+    "tags": [
+      "VEGETARIAN"
+    ],
+    "source": "OFFICIAL"
+  },
+  {
+    "name": "Kofta Kebabs",
+    "description": "Spiced ground meat skewers, popular in Arabic cuisine.",
+    "ingredients": [
+      "Ground lamb or beef",
+      "Onion, grated",
+      "Fresh parsley, chopped",
+      "Ground cumin",
+      "Ground coriander",
+      "Paprika",
+      "Salt",
+      "Black pepper",
+      "Skewers"
+    ],
+    "instructions": [
+      "In a large bowl, combine ground lamb or beef, grated onion (squeeze out excess liquid), chopped parsley, cumin, coriander, paprika, salt, and pepper.",
+      "Mix well until all ingredients are evenly combined.",
+      "Form the mixture into elongated shapes around skewers.",
+      "Preheat grill or oven to medium heat.",
+      "Grill or bake the kofta kebabs for 15-20 minutes, or until cooked through and lightly browned, turning occasionally.",
+      "Serve hot with pita bread, rice, or salad."
+    ],
+    "cuisine": "ARABIC",
+    "mealType": "MAIN_COURSE",
+    "prepTime": 20,
+    "cookTime": 20,
+    "totalTime": 40,
+    "calories": 350,
+    "protein": 25,
+    "fat": 20,
+    "carbs": 10,
+    "servings": 4,
+    "tags": [
+      "HIGH_PROTEIN"
+    ],
+    "source": "OFFICIAL"
+  },
+  {
+    "name": "Crêpes",
+    "description": "Thin French pancakes that can be sweet or savory.",
+    "ingredients": [
+      "All-purpose flour",
+      "Eggs",
+      "Milk",
+      "Butter, melted",
+      "Sugar (for sweet crêpes)",
+      "Salt"
+    ],
+    "instructions": [
+      "In a bowl, whisk together flour and salt (and sugar if making sweet crêpes).",
+      "In a separate bowl, whisk eggs and milk.",
+      "Gradually whisk the wet ingredients into the dry ingredients until a smooth batter forms.",
+      "Stir in melted butter.",
+      "Heat a lightly greased non-stick skillet or crêpe pan over medium heat.",
+      "Pour a thin layer of batter onto the hot pan, swirling to coat the bottom evenly.",
+      "Cook for 1-2 minutes per side, or until lightly golden.",
+      "Repeat with the remaining batter.",
+      "Fill with your desired sweet or savory fillings."
+    ],
+    "cuisine": "FRENCH",
+    "mealType": "BREAKFAST",
+    "prepTime": 15,
+    "cookTime": 20,
+    "totalTime": 35,
+    "calories": 100,
+    "protein": 4,
+    "fat": 5,
+    "carbs": 10,
+    "servings": 6,
+    "tags": [],
+    "source": "OFFICIAL"
+  },
+  {
+    "name": "Avgolemono Soup",
+    "description": "A classic Greek chicken soup thickened with eggs and lemon juice.",
+    "ingredients": [
+      "Chicken broth",
+      "Cooked chicken, shredded",
+      "Orzo pasta or rice",
+      "Eggs",
+      "Fresh lemon juice",
+      "Salt",
+      "Black pepper",
+      "Fresh dill, chopped (optional)"
+    ],
+    "instructions": [
+      "Bring chicken broth to a simmer in a pot.",
+      "Add orzo pasta or rice and cook according to package directions until tender.",
+      "Stir in shredded cooked chicken and heat through.",
+      "In a bowl, whisk eggs until light and frothy.",
+      "Gradually whisk in fresh lemon juice into the eggs.",
+      "Slowly ladle some of the hot broth into the egg-lemon mixture, whisking constantly to temper the eggs.",
+      "Pour the egg-lemon mixture back into the pot with the remaining broth, stirring constantly over low heat until the soup thickens slightly. Do not boil.",
+      "Season with salt and pepper to taste. Garnish with fresh dill (if using) and serve warm."
+    ],
+    "cuisine": "GREEK",
+    "mealType": "SOUP",
+    "prepTime": 10,
+    "cookTime": 25,
+    "totalTime": 35,
+    "calories": 220,
+    "protein": 18,
+    "fat": 10,
+    "carbs": 15,
+    "servings": 4,
+    "tags": [
+      "HIGH_PROTEIN"
+    ],
+    "source": "OFFICIAL"
+  },
+  {
+    "name": "Minestrone Soup",
+    "description": "A hearty Italian vegetable soup with pasta.",
+    "ingredients": [
+      "Vegetable broth",
+      "Diced tomatoes",
+      "Diced carrots",
+      "Diced celery",
+      "Diced onion",
+      "Diced potatoes",
+      "Green beans, cut",
+      "Zucchini, diced",
+      "Small pasta (ditalini, elbow)",
+      "Canned kidney beans, rinsed and drained",
+      "Garlic, minced",
+      "Olive oil",
+      "Dried oregano",
+      "Dried basil",
+      "Salt",
+      "Black pepper",
+      "Grated Parmesan cheese (for serving)"
+    ],
+    "instructions": [
+      "Heat olive oil in a large pot over medium heat. Add onion, carrots, and celery and sauté until softened.",
+      "Add minced garlic and cook for 1 minute more.",
+      "Stir in diced tomatoes, vegetable broth, oregano, and basil. Bring to a simmer.",
+      "Add diced potatoes, green beans, and zucchini. Cook until vegetables are tender.",
+      "Stir in pasta and cook according to package directions.",
+      "Add rinsed kidney beans and heat through.",
+      "Season with salt and pepper to taste.",
+      "Serve hot, garnished with grated Parmesan cheese."
+    ],
+    "cuisine": "ITALIAN",
+    "mealType": "SOUP",
+    "prepTime": 20,
+    "cookTime": 35,
+    "totalTime": 55,
+    "calories": 250,
+    "protein": 10,
+    "fat": 8,
+    "carbs": 35,
+    "servings": 6,
+    "tags": [
+      "VEGETARIAN",
+      "VEGAN"
+    ],
+    "source": "OFFICIAL"
+  },
+  {
+    "name": "Chickpea Spinach Stew",
+    "description": "Nutritious stew with chickpeas, spinach, and aromatic spices.",
+    "ingredients": [
+      "chickpeas",
+      "spinach",
+      "onion",
+      "garlic",
+      "tomatoes",
+      "cumin",
+      "olive oil"
+    ],
+    "instructions": [
+      "Sauté onion and garlic.",
+      "Add chickpeas, tomatoes, and spices.",
+      "Simmer and add spinach until wilted.",
+      "Serve hot with lemon wedges."
+    ],
+    "cuisine": "MEDITERRANEAN",
+    "mealType": "DINNER",
+    "prepTime": 10,
+    "cookTime": 20,
+    "totalTime": 30,
+    "calories": 320,
+    "protein": 14,
+    "fat": 10,
+    "carbs": 38,
+    "servings": 2,
+    "tags": [
+      "VEGAN",
+      "GLUTEN_FREE",
+      "DAIRY_FREE"
+    ],
+    "source": "OFFICIAL"
+  },
+  {
+    "name": "Paneer Tikka",
+    "description": "Indian-style grilled paneer cubes marinated in spices.",
+    "ingredients": [
+      "paneer",
+      "yogurt",
+      "garam masala",
+      "turmeric",
+      "chili powder",
+      "lemon juice",
+      "oil"
+    ],
+    "instructions": [
+      "Mix yogurt with spices and lemon juice.",
+      "Marinate paneer cubes and refrigerate.",
+      "Grill or bake until charred.",
+      "Serve with mint chutney."
+    ],
+    "cuisine": "INDIAN",
+    "mealType": "APPETIZER",
+    "prepTime": 15,
+    "cookTime": 15,
+    "totalTime": 30,
+    "calories": 290,
+    "protein": 17,
+    "fat": 20,
+    "carbs": 8,
+    "servings": 2,
+    "tags": [
+      "VEGETARIAN",
+      "HIGH_PROTEIN",
+      "KETO"
+    ],
+    "source": "OFFICIAL"
+  },
+  {
+    "name": "Tomato Basil Soup",
+    "description": "A creamy and tangy soup made with fresh tomatoes and basil.",
+    "ingredients": [
+      "tomatoes",
+      "onion",
+      "garlic",
+      "basil",
+      "vegetable broth",
+      "olive oil"
+    ],
+    "instructions": [
+      "Sauté onion and garlic.",
+      "Add chopped tomatoes and broth.",
+      "Simmer and blend until smooth.",
+      "Add fresh basil and serve."
+    ],
+    "cuisine": "FRENCH",
+    "mealType": "SOUP",
+    "prepTime": 10,
+    "cookTime": 20,
+    "totalTime": 30,
+    "calories": 180,
+    "protein": 4,
+    "fat": 8,
+    "carbs": 22,
+    "servings": 2,
+    "tags": [
+      "VEGAN",
+      "GLUTEN_FREE",
+      "DAIRY_FREE"
+    ],
+    "source": "OFFICIAL"
+  },
+  {
+    "name": "Zaatar Manakeesh",
+    "description": "Flatbread topped with olive oil and zaatar spice mix.",
+    "ingredients": [
+      "flatbread",
+      "zaatar",
+      "olive oil"
+    ],
+    "instructions": [
+      "Mix zaatar with olive oil.",
+      "Spread on flatbread.",
+      "Bake until golden and serve warm."
+    ],
+    "cuisine": "ARABIC",
+    "mealType": "SNACK",
+    "prepTime": 5,
+    "cookTime": 10,
+    "totalTime": 15,
+    "calories": 250,
+    "protein": 6,
+    "fat": 14,
+    "carbs": 28,
+    "servings": 2,
+    "tags": [
+      "VEGAN",
+      "MEAL_PREP"
+    ],
+    "source": "OFFICIAL"
+  },
+  {
+    "name": "Pasta Primavera",
+    "description": "Italian pasta tossed with colorful vegetables.",
+    "ingredients": [
+      "pasta",
+      "zucchini",
+      "bell peppers",
+      "olive oil",
+      "garlic",
+      "parmesan cheese"
+    ],
+    "instructions": [
+      "Cook pasta and set aside.",
+      "Sauté vegetables in olive oil with garlic.",
+      "Toss pasta with veggies and top with parmesan.",
+      "Serve warm."
+    ],
+    "cuisine": "ITALIAN",
+    "mealType": "DINNER",
+    "prepTime": 10,
+    "cookTime": 15,
+    "totalTime": 25,
+    "calories": 450,
+    "protein": 12,
+    "fat": 14,
+    "carbs": 60,
+    "servings": 2,
+    "tags": [
+      "VEGETARIAN"
+    ],
+    "source": "OFFICIAL"
+  },
+  {
+    "name": "Banana Oat Cookies",
+    "description": "Healthy snack cookies made with bananas and oats.",
+    "ingredients": [
+      "banana",
+      "rolled oats",
+      "cinnamon",
+      "dark chocolate chips"
+    ],
+    "instructions": [
+      "Mash banana and mix with oats and cinnamon.",
+      "Fold in chocolate chips.",
+      "Shape into cookies and bake until golden."
+    ],
+    "cuisine": "AMERICAN",
+    "mealType": "SNACK",
+    "prepTime": 10,
+    "cookTime": 15,
+    "totalTime": 25,
+    "calories": 150,
+    "protein": 3,
+    "fat": 4,
+    "carbs": 25,
+    "servings": 3,
+    "tags": [
+      "VEGAN",
+      "DAIRY_FREE",
+      "MEAL_PREP"
+    ],
+    "source": "OFFICIAL"
+  },
+  {
+    "name": "Avocado Egg Toast",
+    "description": "Toasted bread topped with mashed avocado and poached egg.",
+    "ingredients": [
+      "whole grain bread",
+      "avocado",
+      "egg",
+      "lemon juice",
+      "salt",
+      "pepper"
+    ],
+    "instructions": [
+      "Toast bread and mash avocado with lemon juice.",
+      "Spread avocado on toast.",
+      "Top with poached egg and season."
+    ],
+    "cuisine": "AMERICAN",
+    "mealType": "BREAKFAST",
+    "prepTime": 5,
+    "cookTime": 5,
+    "totalTime": 10,
+    "calories": 300,
+    "protein": 10,
+    "fat": 20,
+    "carbs": 20,
+    "servings": 1,
+    "tags": [
+      "VEGETARIAN",
+      "MEAL_PREP"
+    ],
+    "source": "OFFICIAL"
+  },
+  {
+    "name": "Lemon Garlic Shrimp",
+    "description": "Pan-seared shrimp with lemon and garlic sauce.",
+    "ingredients": [
+      "shrimp",
+      "garlic",
+      "lemon juice",
+      "olive oil",
+      "parsley"
+    ],
+    "instructions": [
+      "Heat oil and cook garlic.",
+      "Add shrimp and cook until pink.",
+      "Add lemon juice and parsley.",
+      "Serve hot with rice or salad."
+    ],
+    "cuisine": "MEDITERRANEAN",
+    "mealType": "MAIN_COURSE",
+    "prepTime": 5,
+    "cookTime": 10,
+    "totalTime": 15,
+    "calories": 220,
+    "protein": 25,
+    "fat": 10,
+    "carbs": 5,
+    "servings": 2,
+    "tags": [
+      "LOW_CARB",
+      "HIGH_PROTEIN",
+      "KETO"
+    ],
+    "source": "OFFICIAL"
+  },
+  {
+    "name": "Ginger Garlic Chicken",
+    "description": "Chicken stir-fried with fresh ginger and garlic.",
+    "ingredients": [
+      "chicken breast",
+      "ginger",
+      "garlic",
+      "soy sauce",
+      "oil",
+      "green onions"
+    ],
+    "instructions": [
+      "Sauté garlic and ginger.",
+      "Add chicken and cook until browned.",
+      "Add soy sauce and green onions.",
+      "Cook until fully done."
+    ],
+    "cuisine": "CHINESE",
+    "mealType": "DINNER",
+    "prepTime": 10,
+    "cookTime": 15,
+    "totalTime": 25,
+    "calories": 350,
+    "protein": 30,
+    "fat": 14,
+    "carbs": 10,
+    "servings": 2,
+    "tags": [
+      "HIGH_PROTEIN",
+      "LOW_CARB",
+      "MEAL_PREP"
+    ],
+    "source": "OFFICIAL"
+  },
+  {
+    "name": "Falafel Wrap",
+    "description": "Crispy falafel balls wrapped in pita with veggies.",
+    "ingredients": [
+      "falafel",
+      "pita bread",
+      "lettuce",
+      "tomato",
+      "tahini",
+      "cucumber"
+    ],
+    "instructions": [
+      "Warm the pita bread.",
+      "Add falafel, chopped veggies, and tahini.",
+      "Wrap and serve."
+    ],
+    "cuisine": "ARABIC",
+    "mealType": "LUNCH",
+    "prepTime": 10,
+    "cookTime": 5,
+    "totalTime": 15,
+    "calories": 400,
+    "protein": 12,
+    "fat": 16,
+    "carbs": 45,
+    "servings": 2,
+    "tags": [
+      "VEGAN",
+      "DAIRY_FREE",
+      "MEAL_PREP"
+    ],
+    "source": "OFFICIAL"
+  },
+  {
+    "name": "Vegetable Soba Noodles",
+    "description": "Japanese soba noodles with stir-fried vegetables.",
+    "ingredients": [
+      "soba noodles",
+      "carrots",
+      "bell peppers",
+      "soy sauce",
+      "sesame oil",
+      "ginger"
+    ],
+    "instructions": [
+      "Boil soba noodles and set aside.",
+      "Stir-fry vegetables with ginger and sesame oil.",
+      "Add noodles and soy sauce, toss to combine.",
+      "Serve warm."
+    ],
+    "cuisine": "JAPANESE",
+    "mealType": "LUNCH",
+    "prepTime": 10,
+    "cookTime": 10,
+    "totalTime": 20,
+    "calories": 350,
+    "protein": 10,
+    "fat": 10,
+    "carbs": 50,
+    "servings": 2,
+    "tags": [
+      "VEGAN",
+      "DAIRY_FREE"
+    ],
+    "source": "OFFICIAL"
+  },
+  {
+    "name": "Spaghetti Aglio e Olio",
+    "description": "Simple spaghetti with garlic, olive oil, and chili flakes.",
+    "ingredients": [
+      "spaghetti",
+      "garlic",
+      "olive oil",
+      "chili flakes",
+      "parsley"
+    ],
+    "instructions": [
+      "Cook spaghetti and drain.",
+      "Sauté garlic and chili flakes in olive oil.",
+      "Toss pasta in oil and top with parsley.",
+      "Serve immediately."
+    ],
+    "cuisine": "ITALIAN",
+    "mealType": "DINNER",
+    "prepTime": 5,
+    "cookTime": 10,
+    "totalTime": 15,
+    "calories": 400,
+    "protein": 10,
+    "fat": 14,
+    "carbs": 55,
+    "servings": 2,
+    "tags": [
+      "VEGAN"
+    ],
+    "source": "OFFICIAL"
+  },
+  {
+    "name": "Mujadara",
+    "description": "Arabic dish of lentils and rice topped with caramelized onions.",
+    "ingredients": [
+      "lentils",
+      "rice",
+      "onions",
+      "olive oil",
+      "cumin",
+      "salt"
+    ],
+    "instructions": [
+      "Cook lentils and rice together with spices.",
+      "Caramelize onions separately.",
+      "Top lentil-rice mixture with onions.",
+      "Serve warm."
+    ],
+    "cuisine": "ARABIC",
+    "mealType": "MAIN_COURSE",
+    "prepTime": 10,
+    "cookTime": 30,
+    "totalTime": 40,
+    "calories": 380,
+    "protein": 14,
+    "fat": 10,
+    "carbs": 55,
+    "servings": 2,
+    "tags": [
+      "VEGAN",
+      "GLUTEN_FREE",
+      "DAIRY_FREE"
+    ],
+    "source": "OFFICIAL"
+  },
+  {
+    "name": "Sopa de Tortilla (Tortilla Soup)",
+    "ingredients": [
+      "Chicken broth",
+      "Diced tomatoes",
+      "Onion, chopped",
+      "Garlic, minced",
+      "Corn tortillas, cut into strips",
+      "Vegetable oil (for frying)",
+      "Shredded cooked chicken (optional)",
+      "Shredded cheese (Monterey Jack or cheddar)",
+      "Avocado, diced",
+      "Sour cream",
+      "Cilantro, chopped",
+      "Lime wedges"
+    ],
+    "instructions": [
+      "Heat vegetable oil in a skillet and fry tortilla strips until crispy. Drain on paper towels.",
+      "In a pot, heat chicken broth. Add chopped onion and minced garlic and sauté until softened.",
+      "Stir in diced tomatoes and simmer for a few minutes.",
+      "Add shredded cooked chicken if using and heat through.",
+      "Ladle soup into bowls. Top with fried tortilla strips, shredded cheese, diced avocado, sour cream, and chopped cilantro. Serve with lime wedges."
+    ],
+    "cuisine": "MEXICAN",
+    "mealType": "SOUP",
+    "prepTime": 20,
+    "cookTime": 25,
+    "totalTime": 45,
+    "calories": 380,
+    "protein": 25,
+    "fat": 20,
+    "carbs": 30,
+    "servings": 4,
+    "tags": [],
+    "source": "OFFICIAL"
+  },
+  {
+    "name": "Palak Paneer (Spinach and Cottage Cheese)",
+    "ingredients": [
+      "Paneer (Indian cottage cheese), cubed",
+      "Spinach, fresh or frozen",
+      "Onion, chopped",
+      "Ginger-garlic paste",
+      "Tomato, chopped",
+      "Turmeric powder",
+      "Cumin powder",
+      "Garam masala",
+      "Heavy cream",
+      "Vegetable oil or ghee",
+      "Cilantro, chopped",
+      "Salt"
+    ],
+    "instructions": [
+      "Blanch fresh spinach in boiling water for a minute, then transfer to ice water. Squeeze out excess water and puree. If using frozen spinach, thaw and squeeze out excess water.",
+      "Heat oil or ghee in a pan. Fry paneer cubes until lightly golden and set aside.",
+      "In the same pan, add chopped onion and sauté until golden brown.",
+      "Add ginger-garlic paste and sauté for a minute.",
+      "Stir in chopped tomato and cook until softened.",
+      "Add turmeric powder, cumin powder, and salt. Cook for a minute.",
+      "Stir in the spinach puree and cook for 5-7 minutes.",
+      "Add the fried paneer cubes and garam masala. Simmer for a few minutes.",
+      "Stir in heavy cream and garnish with chopped cilantro before serving hot with roti or rice."
+    ],
+    "cuisine": "INDIAN",
+    "mealType": "MAIN_COURSE",
+    "prepTime": 20,
+    "cookTime": 40,
+    "totalTime": 60,
+    "calories": 450,
+    "protein": 20,
+    "fat": 30,
+    "carbs": 20,
+    "servings": 4,
+    "tags": [
+      "VEGETARIAN",
+      "GLUTEN_FREE"
+    ],
+    "source": "OFFICIAL"
+  },
+  {
+    "name": "Wonton Soup",
+    "ingredients": [
+      "Wonton wrappers",
+      "Ground pork or shrimp",
+      "Soy sauce",
+      "Sesame oil",
+      "Green onions, chopped",
+      "Ginger, grated",
+      "Chicken broth",
+      "Bok choy or other greens, chopped"
+    ],
+    "instructions": [
+      "In a bowl, combine ground pork or shrimp, soy sauce, sesame oil, chopped green onions, and grated ginger. Mix well.",
+      "Place a small amount of filling in the center of a wonton wrapper. Moisten the edges with water and fold into desired shape, sealing the edges.",
+      "Bring chicken broth to a boil in a pot.",
+      "Add the prepared wontons and cook for 3-5 minutes, or until they float to the surface and are cooked through.",
+      "Stir in chopped bok choy or other greens and cook until wilted.",
+      "Serve hot, garnished with more chopped green onions if desired."
+    ],
+    "cuisine": "CHINESE",
+    "mealType": "SOUP",
+    "prepTime": 30,
+    "cookTime": 20,
+    "totalTime": 50,
+    "calories": 280,
+    "protein": 15,
+    "fat": 15,
+    "carbs": 20,
+    "servings": 4,
+    "tags": [],
+    "source": "OFFICIAL"
+  },
+  {
+    "name": "Yakitori",
+    "description": "Japanese grilled chicken skewers.",
+    "ingredients": [
+      "Chicken thighs or breasts, cut into bite-sized pieces",
+      "Soy sauce",
+      "Mirin",
+      "Sugar",
+      "Sake (optional)",
+      "Skewers"
+    ],
+    "instructions": [
+      "In a saucepan, combine soy sauce, mirin, sugar, and sake (if using). Bring to a simmer and cook until slightly thickened to make the tare sauce. Let cool.",
+      "Thread chicken pieces onto skewers.",
+      "Preheat grill or broiler to medium heat.",
+      "Grill or broil chicken skewers for 4-5 minutes per side, basting frequently with the tare sauce, until cooked through and nicely glazed.",
+      "Serve hot."
+    ],
+    "cuisine": "JAPANESE",
+    "mealType": "APPETIZER",
+    "prepTime": 15,
+    "cookTime": 15,
+    "totalTime": 30,
+    "calories": 180,
+    "protein": 20,
+    "fat": 8,
+    "carbs": 5,
+    "servings": 4,
+    "tags": [
+      "HIGH_PROTEIN"
+    ],
+    "source": "OFFICIAL"
+  },
+  {
+    "name": "Greek Lemon Chicken and Potatoes",
+    "ingredients": [
+      "Chicken pieces (thighs, drumsticks)",
+      "Potatoes, cut into wedges",
+      "Olive oil",
+      "Lemon juice",
+      "Dried oregano",
+      "Garlic cloves, minced",
+      "Salt",
+      "Black pepper"
+    ],
+    "instructions": [
+      "Preheat oven to 400°F (200°C).",
+      "In a large bowl, toss chicken pieces and potato wedges with olive oil, lemon juice, dried oregano, minced garlic, salt, and pepper.",
+      "Arrange chicken and potatoes in a single layer in a baking dish.",
+      "Bake for 45-60 minutes, or until chicken is cooked through and potatoes are tender and golden brown, turning occasionally."
+    ],
+    "cuisine": "GREEK",
+    "mealType": "DINNER",
+    "prepTime": 15,
+    "cookTime": 60,
+    "totalTime": 75,
+    "calories": 420,
+    "protein": 30,
+    "fat": 20,
+    "carbs": 30,
+    "servings": 4,
+    "tags": [
+      "HIGH_PROTEIN",
+      "GLUTEN_FREE"
+    ],
+    "source": "OFFICIAL"
+  },
+  {
+    "name": "Chicken Caesar Salad",
+    "ingredients": [
+      "Romaine lettuce, chopped",
+      "Grilled chicken breast, sliced",
+      "Croutons",
+      "Parmesan cheese, shaved",
+      "Caesar dressing"
+    ],
+    "instructions": [
+      "In a large bowl, combine chopped romaine lettuce and Caesar dressing. Toss to coat.",
+      "Add sliced grilled chicken, croutons, and shaved Parmesan cheese.",
+      "Toss gently and serve immediately."
+    ],
+    "cuisine": "AMERICAN",
+    "mealType": "LUNCH",
+    "prepTime": 15,
+    "cookTime": 10,
+    "totalTime": 25,
+    "calories": 450,
+    "protein": 35,
+    "fat": 25,
+    "carbs": 20,
+    "servings": 2,
+    "tags": [
+      "HIGH_PROTEIN"
+    ],
+    "source": "OFFICIAL"
+  },
+  {
+    "name": "Ful Medames",
+    "description": "A traditional Egyptian dish of cooked fava beans served with vegetable oil, cumin, and optionally with chopped parsley, onion, garlic, and lemon juice.",
+    "ingredients": [
+      "Dried fava beans",
+      "Water",
+      "Garlic cloves, minced",
+      "Lemon juice",
+      "Olive oil",
+      "Cumin powder",
+      "Salt",
+      "Chopped parsley (optional)",
+      "Chopped onion (optional)"
+    ],
+    "instructions": [
+      "Soak fava beans in water overnight.",
+      "Drain and rinse the soaked beans. Place them in a pot with fresh water and bring to a boil. Reduce heat and simmer for 2-3 hours, or until very tender.",
+      "Mash some of the beans to create a thicker consistency.",
+      "Stir in minced garlic, lemon juice, olive oil, cumin powder, and salt.",
+      "Serve warm, garnished with chopped parsley and onion if desired."
+    ],
+    "cuisine": "ARABIC",
+    "mealType": "BREAKFAST",
+    "prepTime": 12,
+    "cookTime": 180,
+    "totalTime": 192,
+    "calories": 300,
+    "protein": 15,
+    "fat": 10,
+    "carbs": 40,
+    "servings": 4,
+    "tags": [
+      "VEGETARIAN",
+      "VEGAN",
+      "GLUTEN_FREE",
+      "DAIRY_FREE",
+      "HIGH_PROTEIN"
+    ],
+    "source": "OFFICIAL"
+  },
+  {
+    "name": "Horiatiki Salad (Greek Village Salad)",
+    "ingredients": [
+      "Tomatoes, quartered",
+      "Cucumbers, sliced",
+      "Red onion, thinly sliced",
+      "Green bell pepper, sliced",
+      "Kalamata olives",
+      "Feta cheese, block",
+      "Dried oregano",
+      "Extra virgin olive oil",
+      "Red wine vinegar (optional)",
+      "Salt",
+      "Black pepper"
+    ],
+    "instructions": [
+      "In a large bowl, combine quartered tomatoes, sliced cucumbers, thinly sliced red onion, and sliced green bell pepper.",
+      "Add Kalamata olives.",
+      "Place a block of feta cheese on top of the vegetables.",
+      "Sprinkle with dried oregano.",
+      "Drizzle generously with extra virgin olive oil and a splash of red wine vinegar if desired.",
+      "Season with salt and freshly ground black pepper. Do not toss until ready to serve."
+    ],
+    "cuisine": "GREEK",
+    "mealType": "SALAD",
+    "prepTime": 15,
+    "cookTime": 0,
+    "totalTime": 15,
+    "calories": 300,
+    "protein": 12,
+    "fat": 25,
+    "carbs": 10,
+    "servings": 4,
+    "tags": [
+      "VEGETARIAN",
+      "GLUTEN_FREE"
+    ],
+    "source": "OFFICIAL"
+  },
+  {
+    "name": "Chicken Noodle Soup",
+    "ingredients": [
+      "Chicken broth",
+      "Cooked chicken, shredded",
+      "Egg noodles",
+      "Carrots, sliced",
+      "Celery, sliced",
+      "Onion, chopped",
+      "Garlic, minced",
+      "Bay leaf",
+      "Dried thyme",
+      "Salt",
+      "Black pepper"
+    ],
+    "instructions": [
+      "In a large pot, bring chicken broth to a boil.",
+      "Add egg noodles and cook according to package directions.",
+      "Stir in sliced carrots, sliced celery, and chopped onion. Cook until vegetables are tender.",
+      "Add minced garlic, shredded cooked chicken, bay leaf, and dried thyme. Season with salt and pepper.",
+      "Simmer for another 5-10 minutes to allow flavors to meld. Remove bay leaf before serving."
+    ],
+    "cuisine": "AMERICAN",
+    "mealType": "SOUP",
+    "prepTime": 15,
+    "cookTime": 25,
+    "totalTime": 40,
+    "calories": 250,
+    "protein": 20,
+    "fat": 8,
+    "carbs": 25,
+    "servings": 6,
+    "tags": [
+      "HIGH_PROTEIN"
+    ],
+    "source": "OFFICIAL"
+  },
+  {
+    "name": "Tuna Salad Lettuce Cups",
+    "description": "A low-carb tuna salad served in crisp lettuce cups.",
+    "ingredients": [
+      "canned tuna",
+      "lettuce leaves",
+      "mayonnaise",
+      "celery",
+      "lemon juice",
+      "pepper"
+    ],
+    "instructions": [
+      "Mix tuna, mayonnaise, diced celery, lemon juice, and pepper.",
+      "Scoop the mixture into lettuce leaves.",
+      "Serve chilled or at room temperature."
+    ],
+    "cuisine": "AMERICAN",
+    "mealType": "LUNCH",
+    "prepTime": 10,
+    "cookTime": 0,
+    "totalTime": 10,
+    "calories": 230,
+    "protein": 20,
+    "fat": 15,
+    "carbs": 2,
+    "servings": 2,
+    "tags": [
+      "KETO",
+      "LOW_CARB",
+      "HIGH_PROTEIN"
+    ],
+    "source": "OFFICIAL"
+  },
+  {
+    "name": "Sweet Potato Hash",
+    "description": "Savory breakfast hash made with sweet potatoes and vegetables.",
+    "ingredients": [
+      "sweet potatoes",
+      "onion",
+      "bell pepper",
+      "olive oil",
+      "salt",
+      "pepper"
+    ],
+    "instructions": [
+      "Dice sweet potatoes and cook in oil until tender.",
+      "Add chopped onion and bell pepper.",
+      "Cook until vegetables are soft and slightly browned.",
+      "Season and serve."
+    ],
+    "cuisine": "AMERICAN",
+    "mealType": "BREAKFAST",
+    "prepTime": 10,
+    "cookTime": 15,
+    "totalTime": 25,
+    "calories": 280,
+    "protein": 4,
+    "fat": 12,
+    "carbs": 38,
+    "servings": 2,
+    "tags": [
+      "VEGAN",
+      "DAIRY_FREE",
+      "GLUTEN_FREE"
+    ],
+    "source": "OFFICIAL"
+  },
+  {
+    "name": "Stuffed Zucchini Boats",
+    "description": "Zucchini halves filled with a savory meat and veggie mix.",
+    "ingredients": [
+      "zucchini",
+      "ground beef",
+      "onion",
+      "tomato sauce",
+      "cheese",
+      "garlic"
+    ],
+    "instructions": [
+      "Cut zucchinis in half and scoop out center.",
+      "Sauté ground beef with onion and garlic.",
+      "Mix in tomato sauce, fill zucchini boats.",
+      "Top with cheese and bake until tender."
+    ],
+    "cuisine": "MEDITERRANEAN",
+    "mealType": "DINNER",
+    "prepTime": 15,
+    "cookTime": 25,
+    "totalTime": 40,
+    "calories": 400,
+    "protein": 25,
+    "fat": 22,
+    "carbs": 12,
+    "servings": 2,
+    "tags": [
+      "LOW_CARB",
+      "HIGH_PROTEIN",
+      "KETO"
+    ],
+    "source": "OFFICIAL"
+  },
+  {
+    "name": "Cucumber Mint Smoothie",
+    "description": "Refreshing green smoothie with cucumber and mint.",
+    "ingredients": [
+      "cucumber",
+      "mint",
+      "lemon juice",
+      "ice",
+      "water",
+      "honey"
+    ],
+    "instructions": [
+      "Blend all ingredients until smooth.",
+      "Serve immediately, chilled."
+    ],
+    "cuisine": "MEDITERRANEAN",
+    "mealType": "SNACK",
+    "prepTime": 5,
+    "cookTime": 0,
+    "totalTime": 5,
+    "calories": 80,
+    "protein": 1,
+    "fat": 0,
+    "carbs": 18,
+    "servings": 2,
+    "tags": [
+      "VEGAN",
+      "DAIRY_FREE",
+      "GLUTEN_FREE"
+    ],
+    "source": "OFFICIAL"
+  },
+  {
+    "name": "Poached Eggs on Spinach",
+    "description": "Protein-rich breakfast of poached eggs over sautéed spinach.",
+    "ingredients": [
+      "eggs",
+      "spinach",
+      "olive oil",
+      "salt",
+      "pepper"
+    ],
+    "instructions": [
+      "Sauté spinach in olive oil.",
+      "Poach eggs in simmering water.",
+      "Place eggs on top of spinach and season."
+    ],
+    "cuisine": "FRENCH",
+    "mealType": "BREAKFAST",
+    "prepTime": 5,
+    "cookTime": 10,
+    "totalTime": 15,
+    "calories": 190,
+    "protein": 12,
+    "fat": 14,
+    "carbs": 2,
+    "servings": 1,
+    "tags": [
+      "LOW_CARB",
+      "HIGH_PROTEIN",
+      "KETO"
+    ],
+    "source": "OFFICIAL"
+  },
+  {
+    "name": "Mango Chia Smoothie",
+    "description": "Tropical smoothie blended with mango and chia seeds.",
+    "ingredients": [
+      "mango",
+      "chia seeds",
+      "plant milk",
+      "honey",
+      "ice"
+    ],
+    "instructions": [
+      "Soak chia seeds for 10 minutes.",
+      "Blend all ingredients until smooth.",
+      "Serve chilled."
+    ],
+    "cuisine": "INDIAN",
+    "mealType": "SNACK",
+    "prepTime": 10,
+    "cookTime": 0,
+    "totalTime": 10,
+    "calories": 200,
+    "protein": 4,
+    "fat": 6,
+    "carbs": 32,
+    "servings": 2,
+    "tags": [
+      "VEGETARIAN",
+      "DAIRY_FREE",
+      "MEAL_PREP"
+    ],
+    "source": "OFFICIAL"
+  },
+  {
+    "name": "Tofu Lettuce Wraps",
+    "description": "Crispy tofu bits in Asian sauce served in lettuce cups.",
+    "ingredients": [
+      "tofu",
+      "lettuce",
+      "soy sauce",
+      "garlic",
+      "ginger",
+      "oil"
+    ],
+    "instructions": [
+      "Crumble and fry tofu until crispy.",
+      "Mix in sauce made with soy, garlic, and ginger.",
+      "Spoon mixture into lettuce cups and serve."
+    ],
+    "cuisine": "CHINESE",
+    "mealType": "LUNCH",
+    "prepTime": 10,
+    "cookTime": 10,
+    "totalTime": 20,
+    "calories": 220,
+    "protein": 14,
+    "fat": 12,
+    "carbs": 10,
+    "servings": 2,
+    "tags": [
+      "VEGAN",
+      "HIGH_PROTEIN",
+      "LOW_CARB"
+    ],
+    "source": "OFFICIAL"
+  },
+  {
+    "name": "Spinach Mushroom Omelette",
+    "description": "Wholesome omelette with spinach and sautéed mushrooms.",
+    "ingredients": [
+      "eggs",
+      "spinach",
+      "mushrooms",
+      "olive oil",
+      "cheese",
+      "salt",
+      "pepper"
+    ],
+    "instructions": [
+      "Sauté mushrooms and spinach in oil.",
+      "Beat eggs and pour into pan.",
+      "Cook until set and sprinkle cheese.",
+      "Fold and serve."
+    ],
+    "cuisine": "AMERICAN",
+    "mealType": "BREAKFAST",
+    "prepTime": 5,
+    "cookTime": 10,
+    "totalTime": 15,
+    "calories": 260,
+    "protein": 14,
+    "fat": 18,
+    "carbs": 6,
+    "servings": 1,
+    "tags": [
+      "LOW_CARB",
+      "HIGH_PROTEIN",
+      "KETO"
+    ],
+    "source": "OFFICIAL"
+  },
+  {
+    "name": "Grilled Halloumi Skewers",
+    "description": "Grilled Mediterranean cheese and veggie skewers.",
+    "ingredients": [
+      "halloumi cheese",
+      "zucchini",
+      "bell peppers",
+      "olive oil",
+      "oregano"
+    ],
+    "instructions": [
+      "Cube cheese and vegetables.",
+      "Skewer and brush with olive oil and oregano.",
+      "Grill until golden and serve hot."
+    ],
+    "cuisine": "MEDITERRANEAN",
+    "mealType": "APPETIZER",
+    "prepTime": 10,
+    "cookTime": 10,
+    "totalTime": 20,
+    "calories": 300,
+    "protein": 16,
+    "fat": 22,
+    "carbs": 5,
+    "servings": 2,
+    "tags": [
+      "VEGETARIAN",
+      "LOW_CARB",
+      "HIGH_PROTEIN"
+    ],
+    "source": "OFFICIAL"
+  },
+  {
+    "name": "Coconut Yogurt Bowl",
+    "description": "Dairy-free yogurt bowl with fruit and nuts.",
+    "ingredients": [
+      "coconut yogurt",
+      "berries",
+      "banana",
+      "almonds",
+      "chia seeds"
+    ],
+    "instructions": [
+      "Scoop yogurt into a bowl.",
+      "Top with fruit, nuts, and chia seeds.",
+      "Serve cold."
+    ],
+    "cuisine": "GREEK",
+    "mealType": "BREAKFAST",
+    "prepTime": 5,
+    "cookTime": 0,
+    "totalTime": 5,
+    "calories": 280,
+    "protein": 5,
+    "fat": 14,
+    "carbs": 28,
+    "servings": 1,
+    "tags": [
+      "VEGAN",
+      "DAIRY_FREE",
+      "GLUTEN_FREE"
+    ],
+    "source": "OFFICIAL"
+  },
+  {
+    "name": "Cauliflower Rice Stir-Fry",
+    "description": "Low-carb stir-fry made with cauliflower rice and veggies.",
+    "ingredients": [
+      "cauliflower",
+      "carrots",
+      "peas",
+      "soy sauce",
+      "garlic",
+      "oil"
+    ],
+    "instructions": [
+      "Pulse cauliflower into rice texture.",
+      "Sauté garlic and vegetables.",
+      "Add cauliflower rice and soy sauce.",
+      "Stir-fry for 5–7 minutes and serve."
+    ],
+    "cuisine": "CHINESE",
+    "mealType": "DINNER",
+    "prepTime": 10,
+    "cookTime": 10,
+    "totalTime": 20,
+    "calories": 180,
+    "protein": 5,
+    "fat": 8,
+    "carbs": 18,
+    "servings": 2,
+    "tags": [
+      "VEGAN",
+      "LOW_CARB",
+      "DAIRY_FREE"
+    ],
+    "source": "OFFICIAL"
+  },
+  {
+    "name": "Pesto Pasta Salad",
+    "description": "Cold pasta salad tossed with basil pesto and veggies.",
+    "ingredients": [
+      "pasta",
+      "basil pesto",
+      "cherry tomatoes",
+      "olives",
+      "feta cheese"
+    ],
+    "instructions": [
+      "Cook and cool pasta.",
+      "Mix with pesto, tomatoes, olives, and feta.",
+      "Chill before serving."
+    ],
+    "cuisine": "ITALIAN",
+    "mealType": "SALAD",
+    "prepTime": 10,
+    "cookTime": 10,
+    "totalTime": 20,
+    "calories": 400,
+    "protein": 10,
+    "fat": 18,
+    "carbs": 45,
+    "servings": 2,
+    "tags": [
+      "VEGETARIAN",
+      "MEAL_PREP"
+    ],
+    "source": "OFFICIAL"
+  },
+  {
+    "name": "Lentil Patties",
+    "description": "Protein-packed patties made from lentils and herbs.",
+    "ingredients": [
+      "lentils",
+      "onion",
+      "garlic",
+      "parsley",
+      "flour",
+      "spices",
+      "oil"
+    ],
+    "instructions": [
+      "Mash cooked lentils and mix with other ingredients.",
+      "Form into patties and pan-fry until golden.",
+      "Serve hot with dip or salad."
+    ],
+    "cuisine": "INDIAN",
+    "mealType": "LUNCH",
+    "prepTime": 15,
+    "cookTime": 15,
+    "totalTime": 30,
+    "calories": 260,
+    "protein": 10,
+    "fat": 8,
+    "carbs": 36,
+    "servings": 2,
+    "tags": [
+      "VEGAN",
+      "HIGH_PROTEIN",
+      "DAIRY_FREE"
+    ],
+    "source": "OFFICIAL"
+  },
+  {
+    "name": "Lasagna",
+    "ingredients": [
+      "Lasagna noodles",
+      "Ground beef",
+      "Tomato sauce",
+      "Ricotta cheese",
+      "Mozzarella cheese, shredded",
+      "Parmesan cheese, grated",
+      "Egg",
+      "Dried oregano",
+      "Salt",
+      "Black pepper",
+      "Onion, chopped",
+      "Garlic, minced"
+    ],
+    "instructions": [
+      "Preheat oven to 375°F (190°C).",
+      "Cook lasagna noodles according to package directions.",
+      "Brown ground beef in a skillet. Drain excess fat. Add chopped onion and minced garlic and cook until softened.",
+      "Stir in tomato sauce, oregano, salt, and pepper. Simmer for 15 minutes.",
+      "In a separate bowl, mix ricotta cheese, egg, and grated Parmesan cheese.",
+      "Layer lasagna noodles, meat sauce, ricotta mixture, and shredded mozzarella in a baking dish.",
+      "Repeat layers. Top with remaining mozzarella and Parmesan cheese.",
+      "Bake for 30-40 minutes, or until bubbly and cheese is melted and golden brown.",
+      "Let stand for 10 minutes before serving."
+    ],
+    "cuisine": "ITALIAN",
+    "mealType": "MAIN_COURSE",
+    "prepTime": 30,
+    "cookTime": 50,
+    "totalTime": 80,
+    "calories": 480,
+    "protein": 30,
+    "fat": 25,
+    "carbs": 35,
+    "servings": 6,
+    "tags": [],
+    "source": "OFFICIAL"
+  },
+  {
+    "name": "Enchiladas",
+    "ingredients": [
+      "Corn tortillas",
+      "Shredded chicken or beef",
+      "Shredded cheese (cheddar or Monterey Jack)",
+      "Enchilada sauce",
+      "Onion, chopped",
+      "Vegetable oil"
+    ],
+    "instructions": [
+      "Preheat oven to 350°F (175°C).",
+      "Heat vegetable oil in a skillet and briefly fry corn tortillas to soften.",
+      "In a bowl, mix shredded chicken or beef with some shredded cheese and chopped onion.",
+      "Dip each softened tortilla in enchilada sauce.",
+      "Fill each tortilla with the meat and cheese mixture and roll up.",
+      "Place rolled enchiladas seam-down in a baking dish.",
+      "Pour remaining enchilada sauce over the top and sprinkle with remaining cheese.",
+      "Bake for 20-25 minutes, or until cheese is melted and bubbly."
+    ],
+    "cuisine": "MEXICAN",
+    "mealType": "DINNER",
+    "prepTime": 25,
+    "cookTime": 30,
+    "totalTime": 55,
+    "calories": 400,
+    "protein": 30,
+    "fat": 20,
+    "carbs": 30,
+    "servings": 4,
+    "tags": [],
+    "source": "OFFICIAL"
+  },
+  {
+    "name": "Saag Paneer (Spinach with Indian Cheese)",
+    "ingredients": [
+      "Spinach, chopped",
+      "Paneer (Indian cheese), cubed",
+      "Onion, chopped",
+      "Ginger-garlic paste",
+      "Tomato, chopped",
+      "Heavy cream",
+      "Garam masala",
+      "Turmeric powder",
+      "Cumin seeds",
+      "Vegetable oil or ghee",
+      "Salt"
+    ],
+    "instructions": [
+      "Heat oil or ghee in a pan. Add cumin seeds and let them splutter.",
+      "Add chopped onion and sauté until golden brown.",
+      "Add ginger-garlic paste and sauté for a minute.",
+      "Stir in chopped tomato and cook until softened.",
+      "Add turmeric powder and salt. Cook for a minute.",
+      "Add chopped spinach and cook until wilted.",
+      "Stir in paneer cubes and garam masala. Simmer for a few minutes.",
+      "Stir in heavy cream and serve hot with naan or rice."
+    ],
+    "cuisine": "INDIAN",
+    "mealType": "MAIN_COURSE",
+    "prepTime": 15,
+    "cookTime": 30,
+    "totalTime": 45,
+    "calories": 420,
+    "protein": 18,
+    "fat": 30,
+    "carbs": 15,
+    "servings": 4,
+    "tags": [
+      "VEGETARIAN",
+      "GLUTEN_FREE"
+    ],
+    "source": "OFFICIAL"
+  },
+  {
+    "name": "Sweet and Sour Chicken",
+    "ingredients": [
+      "Chicken breast, cubed",
+      "Pineapple chunks",
+      "Bell peppers (red, green), cubed",
+      "Onion, cubed",
+      "Soy sauce",
+      "Rice vinegar",
+      "Sugar",
+      "Ketchup",
+      "Cornstarch",
+      "Vegetable oil",
+      "Cooked rice"
+    ],
+    "instructions": [
+      "In a bowl, toss chicken cubes with cornstarch.",
+      "Heat vegetable oil in a wok or skillet. Stir-fry chicken until browned and cooked through. Remove and set aside.",
+      "In the same wok, stir-fry bell peppers and onion until slightly tender.",
+      "Add pineapple chunks and stir-fry for a minute.",
+      "In a small bowl, whisk together soy sauce, rice vinegar, sugar, and ketchup.",
+      "Pour the sauce into the wok and bring to a simmer, stirring until slightly thickened.",
+      "Return the cooked chicken to the wok and toss to coat with the sauce.",
+      "Serve hot over cooked rice."
+    ],
+    "cuisine": "CHINESE",
+    "mealType": "DINNER",
+    "prepTime": 20,
+    "cookTime": 25,
+    "totalTime": 45,
+    "calories": 450,
+    "protein": 30,
+    "fat": 15,
+    "carbs": 50,
+    "servings": 4,
+    "tags": [],
+    "source": "OFFICIAL"
+  },
+  {
+    "name": "Ramen",
+    "ingredients": [
+      "Ramen noodles",
+      "Pork belly or other protein, sliced",
+      "Soy sauce",
+      "Mirin",
+      "Pork or chicken broth",
+      "Soft-boiled egg, halved",
+      "Green onions, sliced",
+      "Nori seaweed sheets",
+      "Miso paste (optional)"
+    ],
+    "instructions": [
+      "Cook ramen noodles according to package directions.",
+      "In a separate pot, heat pork or chicken broth.",
+      "Season broth with soy sauce and mirin. Add miso paste if desired.",
+      "Arrange cooked noodles in a bowl. Pour hot broth over the noodles.",
+      "Top with sliced pork belly, halved soft-boiled egg, sliced green onions, and nori seaweed.",
+      "Serve hot immediately."
+    ],
+    "cuisine": "JAPANESE",
+    "mealType": "DINNER",
+    "prepTime": 20,
+    "cookTime": 20,
+    "totalTime": 40,
+    "calories": 500,
+    "protein": 30,
+    "fat": 25,
+    "carbs": 40,
+    "servings": 2,
+    "tags": [],
+    "source": "OFFICIAL"
+  },
+  {
+    "name": "Greek Lemon Rice",
+    "ingredients": [
+      "Long-grain rice",
+      "Chicken broth",
+      "Lemon juice",
+      "Olive oil",
+      "Onion, chopped",
+      "Garlic, minced",
+      "Dried oregano",
+      "Salt",
+      "Black pepper",
+      "Fresh dill, chopped (optional)"
+    ],
+    "instructions": [
+      "Heat olive oil in a saucepan over medium heat. Add chopped onion and cook until softened.",
+      "Add minced garlic and cook for a minute.",
+      "Stir in rice and cook for another minute until translucent.",
+      "Pour in chicken broth and lemon juice. Season with oregano, salt, and pepper.",
+      "Bring to a boil, then reduce heat to low, cover, and simmer for 15-20 minutes, or until rice is cooked and liquid is absorbed.",
+      "Fluff rice with a fork and stir in chopped fresh dill if desired. Serve hot."
+    ],
+    "cuisine": "GREEK",
+    "mealType": "SIDE_DISH",
+    "prepTime": 10,
+    "cookTime": 25,
+    "totalTime": 35,
+    "calories": 220,
+    "protein": 5,
+    "fat": 8,
+    "carbs": 30,
+    "servings": 4,
+    "tags": [
+      "VEGETARIAN",
+      "GLUTEN_FREE"
+    ],
+    "source": "OFFICIAL"
+  },
+  {
+    "name": "Shepherd's Pie",
+    "ingredients": [
+      "Ground lamb or beef",
+      "Onion, chopped",
+      "Carrots, diced",
+      "Peas (frozen)",
+      "Beef broth",
+      "Tomato paste",
+      "Worcestershire sauce",
+      "Dried thyme",
+      "Mashed potatoes",
+      "Butter",
+      "Milk",
+      "Salt",
+      "Black pepper"
+    ],
+    "instructions": [
+      "Preheat oven to 375°F (190°C).",
+      "Brown ground lamb or beef in a skillet. Drain excess fat.",
+      "Add chopped onion and diced carrots and cook until softened.",
+      "Stir in tomato paste, Worcestershire sauce, and dried thyme.",
+      "Pour in beef broth and bring to a simmer. Stir in frozen peas. Season with salt and pepper.",
+      "In a separate bowl, prepare mashed potatoes using butter, milk, salt, and pepper.",
+      "Transfer the meat mixture to a baking dish and spread mashed potatoes evenly over the top.",
+      "Bake for 20-25 minutes, or until the topping is lightly golden and the filling is bubbly."
+    ],
+    "cuisine": "AMERICAN",
+    "mealType": "MAIN_COURSE",
+    "prepTime": 25,
+    "cookTime": 45,
+    "totalTime": 70,
+    "calories": 450,
+    "protein": 25,
+    "fat": 20,
+    "carbs": 40,
+    "servings": 4,
+    "tags": [],
+    "source": "OFFICIAL"
+  },
+  {
+    "name": "Chicken Shawarma",
+    "ingredients": [
+      "Chicken thighs, boneless and skinless",
+      "Plain yogurt",
+      "Lemon juice",
+      "Garlic, minced",
+      "Cumin",
+      "Coriander",
+      "Turmeric",
+      "Paprika",
+      "Salt",
+      "Pita bread",
+      "Tahini sauce",
+      "Pickled vegetables",
+      "Lettuce, shredded",
+      "Tomato, sliced"
+    ],
+    "instructions": [
+      "Cut chicken into thin strips. In a bowl, mix yogurt, lemon juice, minced garlic, cumin, coriander, turmeric, paprika, and salt. Add chicken and marinate for at least 2 hours.",
+      "Heat a large skillet or grill pan over medium-high heat. Cook chicken until browned and cooked through.",
+      "Warm pita bread.",
+      "Assemble shawarma by filling pita bread with cooked chicken, tahini sauce, pickled vegetables, shredded lettuce, and sliced tomato."
+    ],
+    "cuisine": "ARABIC",
+    "mealType": "LUNCH",
+    "prepTime": 15,
+    "cookTime": 20,
+    "totalTime": 35,
+    "calories": 400,
+    "protein": 35,
+    "fat": 15,
+    "carbs": 30,
+    "servings": 4,
+    "tags": [
+      "HIGH_PROTEIN"
+    ],
+    "source": "OFFICIAL"
+  },
+  {
+    "name": "Boeuf Bourguignon",
+    "description": "A classic French beef stew braised in red wine.",
+    "ingredients": [
+      "Beef chuck, cut into cubes",
+      "Bacon, diced",
+      "Onions, pearl or chopped",
+      "Carrots, sliced",
+      "Mushrooms, sliced",
+      "Red wine (Burgundy)",
+      "Beef broth",
+      "Tomato paste",
+      "Garlic cloves, minced",
+      "Thyme sprigs",
+      "Bay leaf",
+      "All-purpose flour",
+      "Butter",
+      "Olive oil",
+      "Salt",
+      "Black pepper"
+    ],
+    "instructions": [
+      "Season beef cubes with salt and pepper. Dredge lightly in flour.",
+      "In a Dutch oven or large pot, cook bacon until crispy. Remove bacon and reserve fat.",
+      "Brown beef cubes in the bacon fat. Remove beef and set aside.",
+      "Sauté pearl onions and carrots in the pot until lightly browned.",
+      "Add minced garlic and cook for a minute.",
+      "Return beef and bacon to the pot. Sprinkle with flour and cook for 1 minute.",
+      "Stir in tomato paste. Pour in red wine and beef broth. Add thyme and bay leaf.",
+      "Bring to a simmer, then cover and braise in a preheated oven at 325°F (160°C) for 2-3 hours, or until beef is very tender.",
+      "Sauté sliced mushrooms in butter until browned. Add to the stew during the last 30 minutes of cooking.",
+      "Remove thyme sprigs and bay leaf before serving with mashed potatoes or crusty bread."
+    ],
+    "cuisine": "FRENCH",
+    "mealType": "DINNER",
+    "prepTime": 30,
+    "cookTime": 180,
+    "totalTime": 210,
+    "calories": 550,
+    "protein": 40,
+    "fat": 30,
+    "carbs": 20,
+    "servings": 6,
+    "tags": [
+      "HIGH_PROTEIN"
+    ],
+    "source": "OFFICIAL"
+  },
+  {
+    "name": "Pastitsio",
+    "description": "A baked Greek pasta dish with ground meat and béchamel sauce.",
+    "ingredients": [
+      "Pasta (thick tubular)",
+      "Ground beef or lamb",
+      "Onion, chopped",
+      "Garlic, minced",
+      "Tomato sauce",
+      "Cinnamon",
+      "Allspice",
+      "Red wine (optional)",
+      "Butter",
+      "All-purpose flour",
+      "Milk",
+      "Eggs",
+      "Grated Parmesan cheese",
+      "Nutmeg",
+      "Olive oil",
+      "Salt",
+      "Black pepper"
+    ],
+    "instructions": [
+      "Cook pasta until slightly underdone. Drain and toss with olive oil.",
+      "Brown ground meat in a skillet. Add chopped onion and minced garlic and cook until softened.",
+      "Stir in tomato sauce, cinnamon, allspice, red wine (if using), salt, and pepper. Simmer for 20 minutes.",
+      "Melt butter in a saucepan. Whisk in flour and cook for 1 minute. Gradually whisk in milk until smooth. Simmer until thickened. Remove from heat and stir in beaten eggs, half of the Parmesan cheese, and nutmeg. Season with salt and pepper.",
+      "Preheat oven to 375°F (190°C). Layer half of the pasta in a baking dish. Spread the meat sauce over the pasta. Top with the remaining pasta and then the béchamel sauce.",
+      "Sprinkle with the remaining Parmesan cheese.",
+      "Bake for 45-60 minutes, or until golden brown and bubbly. Let rest before serving."
+    ],
+    "cuisine": "GREEK",
+    "mealType": "MAIN_COURSE",
+    "prepTime": 35,
+    "cookTime": 75,
+    "totalTime": 110,
+    "calories": 520,
+    "protein": 30,
+    "fat": 25,
+    "carbs": 40,
+    "servings": 8,
+    "tags": [],
+    "source": "OFFICIAL"
+  }
+]

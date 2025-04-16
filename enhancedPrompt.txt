@@ -1,0 +1,142 @@
+Each recipe must match this schema:
+
+{
+  name: string,
+  description?: string,
+  ingredients: string[],
+  instructions: string[],
+  cuisine: one of ["ITALIAN", "MEXICAN", "INDIAN", "CHINESE", "JAPANESE", "MEDITERRANEAN", "AMERICAN", "ARABIC", "FRENCH", "GREEK"],
+  mealType: one of ["BREAKFAST", "LUNCH", "DINNER", "SNACK", "DESSERT", "APPETIZER", "SIDE_DISH", "MAIN_COURSE", "SALAD", "SOUP"],
+  prepTime: number,
+  cookTime: number,
+  totalTime: number,
+  calories: number,
+  protein: number,
+  fat: number,
+  carbs: number,
+  servings: number,
+  tags: string[] (from: ["VEGETARIAN", "VEGAN", "GLUTEN_FREE", "DAIRY_FREE", "LOW_CARB", "HIGH_PROTEIN", "KETO", "PALEO", "MEAL_PREP"]),
+  source: always "OFFICIAL"
+}
+
+Rules:
+- Output only a valid JSON array of 10 unique recipes
+- Do not include commentary or extra text
+- Follow enum values exactly
+
+
+Additionally:
+- Do not generate any of the following recipe names (already used):
+- "spaghetti carbonara"
+- "vegetable stir fry"
+- "greek salad"
+- "chocolate avocado mousse"
+- "chicken tikka masala"
+- "margherita pizza"
+- "beef tacos"
+- "chicken curry"
+- "vegetable spring rolls"
+- "miso soup"
+- "greek yogurt parfait"
+- "ratatouille"
+- "hummus"
+- "avocado toast"
+- "tabbouleh"
+- "guacamole"
+- "beef stir-fry"
+- "classic burger"
+- "french onion soup"
+- "caprese salad"
+- "grilled chicken salad"
+- "vegetable stir-fry"
+- "lentil soup"
+- "chickpea curry"
+- "oatmeal with banana"
+- "baked salmon with veggies"
+- "hummus with pita bread"
+- "zucchini noodles with pesto"
+- "chicken fajitas"
+- "vegetable biryani"
+- "beef and broccoli stir-fry"
+- "miso soup with tofu and seaweed"
+- "classic hamburger"
+- "tzatziki sauce"
+- "quinoa tabbouleh"
+- "turkey lettuce wraps"
+- "eggplant parmesan"
+- "spicy tuna roll"
+- "black bean tacos"
+- "avocado chocolate mousse"
+- "stuffed bell peppers"
+- "chicken fajita bowl"
+- "french omelette"
+- "shakshuka"
+- "tofu stir-fry"
+- "greek chicken skewers"
+- "chia pudding"
+- "pasta aglio e olio"
+- "black bean salsa"
+- "aloo gobi (potato and cauliflower curry)"
+- "egg fried rice"
+- "edamame"
+- "baba ghanoush"
+- "blt sandwich"
+- "fattoush salad"
+- "soupe à l'oignon gratinée"
+- "spanakopita (spinach pie)"
+- "bruschetta with tomatoes and basil"
+- "quesadillas"
+- "chana masala (chickpea curry)"
+- "mapo tofu"
+- "tempura vegetables"
+- "tabbouleh salad"
+- "grilled cheese sandwich"
+- "kofta kebabs"
+- "crêpes"
+- "avgolemono soup"
+- "minestrone soup"
+- "chickpea spinach stew"
+- "paneer tikka"
+- "tomato basil soup"
+- "zaatar manakeesh"
+- "pasta primavera"
+- "banana oat cookies"
+- "avocado egg toast"
+- "lemon garlic shrimp"
+- "ginger garlic chicken"
+- "falafel wrap"
+- "vegetable soba noodles"
+- "spaghetti aglio e olio"
+- "mujadara"
+- "sopa de tortilla (tortilla soup)"
+- "palak paneer (spinach and cottage cheese)"
+- "wonton soup"
+- "yakitori"
+- "greek lemon chicken and potatoes"
+- "chicken caesar salad"
+- "ful medames"
+- "horiatiki salad (greek village salad)"
+- "chicken noodle soup"
+- "tuna salad lettuce cups"
+- "sweet potato hash"
+- "stuffed zucchini boats"
+- "cucumber mint smoothie"
+- "poached eggs on spinach"
+- "mango chia smoothie"
+- "tofu lettuce wraps"
+- "spinach mushroom omelette"
+- "grilled halloumi skewers"
+- "coconut yogurt bowl"
+- "cauliflower rice stir-fry"
+- "pesto pasta salad"
+- "lentil patties"
+- "lasagna"
+- "enchiladas"
+- "saag paneer (spinach with indian cheese)"
+- "sweet and sour chicken"
+- "ramen"
+- "greek lemon rice"
+- "shepherd's pie"
+- "chicken shawarma"
+- "boeuf bourguignon"
+- "pastitsio"
