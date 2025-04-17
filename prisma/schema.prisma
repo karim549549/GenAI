@@ -1,0 +1,265 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "mongodb"
+  url      = env("DATABASE_URL")
+}
+
+model User {
+  id               String          @id @default(uuid()) @map("_id")
+  firstname        String
+  lastname         String
+  email            String          @unique
+  hashPassword     String
+  role             Role            @default(USER)
+  googleId         String?
+  profile          Profile?
+
+  recipes          Recipe[]       
+  recipeRatings    RecipeRating[]
+  recipeComments   RecipeComment[]
+  recipeLikes      RecipeLike[]
+
+
+  createdAt        DateTime        @default(now())
+  updatedAt        DateTime        @updatedAt()
+  deletedAt        DateTime?
+}
+
+model Profile {
+  id                  String     @id @default(uuid()) @map("_id")
+  userId              String     @unique
+  user                User       @relation(fields: [userId], references: [id])
+
+  weight              Float
+  height              Float
+  birthdate           DateTime
+  gender              Gender
+  activityLevel       ActivityLevel
+
+  medications         Medication[]
+  smoker              Boolean    @default(false)
+  alcoholConsumption  AlcoholFrequency
+  intolerances        FoodIntolerance[]
+
+  vegetarian          Boolean    @default(false)
+  vegan               Boolean    @default(false)
+  halal               Boolean    @default(false)
+  kosher              Boolean    @default(false)
+
+  createdAt           DateTime   @default(now())
+  updatedAt           DateTime   @updatedAt()
+}
+
+model Recipe {
+  id            String   @id @default(uuid()) @map("_id")
+  name          String
+  description   String?
+  imageUrl      String?
+
+  ingredients   String[]
+  instructions  String[]
+
+  cuisine       Cuisine?
+  mealType      MealType
+
+  prepTime      Int?
+  cookTime      Int?
+  totalTime     Int?
+
+  calories      Int?
+  protein       Float?
+  fat           Float?
+  carbs         Float?
+  servings      Int?
+
+  tags          TAG[]
+  source        RECIPESOURCE @default(COMMUNITY)
+
+  createdById   String
+  createdBy     User     @relation(fields: [createdById], references: [id])
+
+  isPublished   Boolean  @default(false)
+
+  recipeRatings RecipeRating[]
+  recipeComments RecipeComment[]
+  recipeLikes   RecipeLike[]
+
+  createdAt     DateTime @default(now())
+  updatedAt     DateTime @updatedAt()
+}
+
+model RecipeRating {
+  id        String   @id @default(uuid()) @map("_id")
+  recipeId  String
+  recipe    Recipe   @relation(fields: [recipeId], references: [id])
+
+  userId    String
+  user      User     @relation(fields: [userId], references: [id])
+
+  value     Int      // 1–5 stars
+
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt()
+
+  @@unique([userId, recipeId])
+}
+
+model RecipeComment {
+  id        String   @id @default(uuid()) @map("_id")
+  recipeId  String
+  recipe    Recipe   @relation(fields: [recipeId], references: [id])
+
+  userId    String
+  user      User     @relation(fields: [userId], references: [id])
+
+  message   String
+  createdAt DateTime @default(now())
+
+  @@index([userId, recipeId])
+}
+
+model RecipeLike {
+  id        String   @id @default(uuid()) @map("_id")
+  recipeId  String
+  recipe    Recipe   @relation(fields: [recipeId], references: [id])
+
+  userId    String
+  user      User     @relation(fields: [userId], references: [id])
+
+  createdAt DateTime @default(now())
+
+  @@unique([userId, recipeId])
+}
+
+// ENUMS
+
+enum Cuisine {
+  ITALIAN
+  MEXICAN
+  INDIAN
+  CHINESE
+  JAPANESE
+  MEDITERRANEAN
+  AMERICAN
+  ARABIC
+  FRENCH
+  GREEK
+}
+
+enum MealType {
+  BREAKFAST
+  LUNCH
+  DINNER
+  SNACK
+  DESSERT
+  APPETIZER
+  SIDE_DISH
+  MAIN_COURSE
+  SALAD
+  SOUP
+}
+
+enum TAG {
+  VEGETARIAN
+  VEGAN
+  GLUTEN_FREE
+  DAIRY_FREE
+  NUT_FREE
+  LOW_CARB
+  HIGH_PROTEIN
+  LOW_FAT
+  KETO
+  PALEO
+  WHOLE30
+  DIABETIC_FRIENDLY
+  HEART_HEALTHY
+  QUICK_AND_EASY
+  MEAL_PREP
+}
+
+enum RECIPESOURCE {
+  COMMUNITY 
+  OFFICIAL
+}
+
+enum Role {
+  ADMIN
+  USER
+}
+
+enum Gender {
+  MALE
+  FEMAILE
+}
+
+enum ActivityLevel {
+  SEDENTARY
+  LIGHTLY_ACTIVE
+  MODERATELY_ACTIVE
+  VERY_ACTIVE
+  EXTRA_ACTIVE
+}
+
+enum Medication {
+  DIURETICS
+  ACE_INHIBITORS
+  STATINS
+  ANTICOAGULANTS
+  DIABETES_MEDS
+  MAO_INHIBITORS
+  CORTICOSTEROIDS
+  ANTACIDS
+  THYROID
+  IMMUNOSUPPRESSANTS
+}
+
+enum AlcoholFrequency {
+  NEVER
+  OCCASIONALLY
+  DAILY
+  FREQUANTLY
+  MODERATELY
+}
+
+enum FoodIntolerance {
+  LACTOSE
+  GLUTEN
+  NUTS
+  SHELLFISH
+  EGGS
+  SOY
+  FISH
+  PEANUTS
+  WALNUTS
+  CELERY
+  MUSTARD
+  SESAME
+  SULPHITES
+  SUGAR
+  SUGAR_ALCOHOLS
+  XANTHAN_GUM
+  POTASSIUM
+  PHOSPHORUS
+  SODIUM
+  IODINE
+  CALCIUM
+  CORN
+  TOMATO
+  CHOCOLATE
+  STRAWBERRY
+  BEEF
+  PORK
+  CITRUS_FRUITS
+  DAIRY
+}
+
+enum Goal {
+  LOSE_WEIGHT
+  GAIN_WEIGHT
+  MAINTAIN_WEIGHT
+  BUILD_MUSCLE
+  IMPROVE_ENDURANCE
+}
