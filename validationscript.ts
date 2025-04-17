@@ -9,32 +9,44 @@ import {
   const recipes = JSON.parse(data);
 
   const BASE_PROMPT = `
-Each recipe must match this schema:
-
-{
-  name: string,
-  description?: string,
-  ingredients: string[],
-  instructions: string[],
-  cuisine: one of ["ITALIAN", "MEXICAN", "INDIAN", "CHINESE", "JAPANESE", "MEDITERRANEAN", "AMERICAN", "ARABIC", "FRENCH", "GREEK"],
-  mealType: one of ["BREAKFAST", "LUNCH", "DINNER", "SNACK", "DESSERT", "APPETIZER", "SIDE_DISH", "MAIN_COURSE", "SALAD", "SOUP"],
-  prepTime: number,
-  cookTime: number,
-  totalTime: number,
-  calories: number,
-  protein: number,
-  fat: number,
-  carbs: number,
-  servings: number,
-  tags: string[] (from: ["VEGETARIAN", "VEGAN", "GLUTEN_FREE", "DAIRY_FREE", "LOW_CARB", "HIGH_PROTEIN", "KETO", "PALEO", "MEAL_PREP"]),
-  source: always "OFFICIAL"
-}
-
-Rules:
-- Output only a valid JSON array of 10 unique recipes
-- Do not include commentary or extra text
-- Follow enum values exactly
-`;
+  You are generating structured JSON for a recipe dataset.
+  
+  Each recipe must match this schema:
+  
+  {
+    name: string,
+    description?: string,
+    ingredients: string[],
+    instructions: string[],
+    cuisine: one of ["ITALIAN", "MEXICAN", "INDIAN", "CHINESE", "JAPANESE", "MEDITERRANEAN", "AMERICAN", "ARABIC", "FRENCH", "GREEK"],
+    mealType: one of ["BREAKFAST", "LUNCH", "DINNER", "SNACK", "DESSERT", "APPETIZER", "SIDE_DISH", "MAIN_COURSE", "SALAD", "SOUP"],
+    prepTime: number,
+    cookTime: number,
+    totalTime: number,
+    calories: number,
+    protein: number,
+    fat: number,
+    carbs: number,
+    servings: number,
+    tags: string[] (from: ["VEGETARIAN", "VEGAN", "GLUTEN_FREE", "DAIRY_FREE", "LOW_CARB", "HIGH_PROTEIN", "KETO", "PALEO", "MEAL_PREP"]),
+    source: always "OFFICIAL"
+  }
+  
+  Rules:
+  - Output ONLY a valid JSON array of 10 unique recipes
+  - Do NOT include any commentary or extra text
+  - Ensure enum values match casing and spelling exactly
+  
+  Diversity Requirements:
+  - Include a balanced mix of:
+    - Healthy/diet recipes (e.g., vegan, paleo, low carb)
+    - Indulgent/junk food recipes (e.g., cheesy, fried, sweet)
+  - Include recipes from at least 6 different cuisines from the list
+  - Ensure different prep and cook time ranges (fast snacks and long meals)
+  - Include both simple 3-step recipes and complex 6+ step ones
+  - Avoid repeating dish types or very similar ingredients in one batch
+  
+  `;
 
   let valid = 0;
   let invalid = 0;

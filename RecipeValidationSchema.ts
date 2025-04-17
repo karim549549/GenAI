@@ -91,7 +91,6 @@ export enum RecipeValidationError {
   INVALID_SOURCE = "INVALID_SOURCE",
 }
 
-// Utility to extract error codes from a Zod error
 export const extractValidationErrors = (
   error: ZodError
 ): RecipeValidationError[] => {
